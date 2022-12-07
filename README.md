@@ -1,4 +1,4 @@
-# OUR PARADOSE Website
+# OUR PARADISE Website
 
 wesite on https://wwww.ourparadise.me
 
