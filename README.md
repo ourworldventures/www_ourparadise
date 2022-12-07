@@ -1,8 +1,8 @@
 # OUR PARADOSE Website
 
-wesite on https://nomads.ourworld.tf/
+wesite on https://wwww.ourparadise.me
 
-> More info see (gdoc)[https://docs.google.com/document/d/1RuWIVcuhSE5BGF1HkgXqKVOcF31g0CQR-EjhcAAlHoA/edit#]
+> More info see [gdoc](https://docs.google.com/document/d/1RuWIVcuhSE5BGF1HkgXqKVOcF31g0CQR-EjhcAAlHoA/edit#)
 
 ## Developers
 
