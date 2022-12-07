@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8">
+
+    
+    {% include "partials/head.html" %}
+    
+    <body>
+        {% include "partials/header.html" %}
+        <div id="content" class="mx-auto overflow-hidden">
+            {% block content %}{% endblock %}    
+        </div>
+        {% include "partials/footer.html" %}
+    </body>
+</html>
