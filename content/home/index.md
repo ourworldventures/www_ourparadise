@@ -132,7 +132,7 @@ Experience an authentic paradise through diving and snorkeling, sailing, and tro
 
 ### Nile Activities
 
-Go deep with health and healing retreat activities, the amazing temples of the Nile and the Great Pyramids of Gaza. We'll take you through Nubian Villages and a secret tour of Luxor. Fly high with a sunrise trip on a hot air balloon. Yallah, habibi!
+Go deep with health and healing retreat activities, the amazing temples of the Nile, and the Great Pyramids of Gaza. We'll take you through Nubian Villages and a secret tour of Luxor. Fly high with a sunrise hot air balloon trip. Yallah!
 
 {% end %}
 

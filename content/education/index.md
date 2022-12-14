@@ -7,10 +7,7 @@ draft: false
 weight: 5
 ---
 
-{% row(style="center") %}
-
-<br>
-<br>
+{% row(style="center narrow" margin="header" bgPath="img/educationheader.jpg" bgStyle="full") %}
 
 ## Education Initiatives
 
@@ -18,6 +15,9 @@ weight: 5
 
 “Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.” —Maimonides
 
-
+<br>
+<br>
+<br>
+<br>
 
 {% end %}
