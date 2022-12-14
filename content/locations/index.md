@@ -4,7 +4,7 @@ description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
-weight: 2
+weight: 3
 ---
 
 <!-- section 1 (JP) -->
@@ -14,7 +14,7 @@ weight: 2
 ### Chumbe Island
 
 <p style='font-size: 15px'>
-6 kilometers south of Stone Town, surrounded by pristine coral reefs, Chumbe Island Coral Park is one of the world's newest and most successful ecotourism projects. In 1994 the reef surrounding Chumbe island was created as Tanzania's first Marine National Park. The island itself, covered with lush mangrove forest, is a designated forest reserve.
+6 km south of Stone Town, surrounded by pristine coral reefs, Chumbe Island Coral Park is one of the world's most successful ecotourism projects. In 1994 the reef surrounding Chumbe island was created as Tanzania's first Marine National Park. The island itself, covered with lush mangrove forest, is a designated forest reserve.
 </p>
 
 <p style='font-size: 15px'>
@@ -43,11 +43,23 @@ All profits from tourism on Chumbe Island are reinvested into the conservation a
 
 |||
 
+![chumbe](img/chumbe_location.png#large)
+
 {% end %}
 
 <!-- section 2 (Fun beach) -->
 
 {% row(bgColor="#F2F2F2" margin="moderate" padding="top" id="fflow_grid") %}
+
+![Mbweni](img/mbwenilocation1.jpeg#large)
+
+<br>
+
+![Mbweni](img/mbwenilocation2.jpeg#large)
+
+<br>
+
+![Mbweni](img/mbwenilocation3.jpeg#large)
 
 |||
 
@@ -94,7 +106,7 @@ In front of the hotel there is amazing wildlife in the ocean, there are hundreds
  </p>
 
 <p style='font-size: 15px'>
-More info see http://hq.ourworld.tf
+More info see: http://hq.ourworld.tf
 </p>
 
 {% end %}
@@ -108,7 +120,7 @@ The Nile is a super beautiful and incredibly energy rich location. The Nile has 
 </p>
 
 <p style='font-size: 15px'>
-We operate 4 boats on the Nile in the original Dahabeya style, each boat has solar and is made as organic as possible. The Nile is an incredibly fertile area in Africa and is fundamental for the survival of millions of people, today it's not going well enough, education and concrete action is needed now.
+We operate 4 boats on the Nile in the original Dahabiya style, each boat has solar and is made as organic as possible. The Nile is an incredibly fertile area in Africa and is fundamental for the survival of millions of people, today it's not going well enough, education and concrete action is needed now.
 </p>
 
 <p style='font-size: 15px'>
@@ -119,43 +131,65 @@ The Nile is very long, more than 1000 km in Egypt alone.
 Our Impact activities for Egypt:
 </p>
 
-- Knowledge creation & awareness education for the farmers along the Nile (+60.000.000 people)
-- Very practical digital education material, to show how to produce organic food as well as use grow and use hemp in the best possible way
-- STOP the burning of sugar cane  (education projects, the boats are used for that)
-- STOP the pollution of the Nile (education projects, the boats are used for that)
-- Practical farming projects for organic food and hemp, show the economic feasibility for local farmers & businessmen. Carbon Credit harvesting, store carbon credit in Hemp Building materials.
-- Research, invite experts to come and stay in our facilities and do practical research and help create educational content (video & augmented reality)
-
-</p>
+- <p style='font-size: 15px'>Knowledge creation & awareness education for the farmers along the Nile (+60.000.000 people)</p>
+- <p style='font-size: 15px'>Very practical digital education material, to show how to produce organic food as well as use grow and use hemp in the best possible way</p>
+- <p style='font-size: 15px'>STOP the burning of sugar cane  (education projects, the boats are used for that)</p>
+- <p style='font-size: 15px'>STOP the pollution of the Nile (education projects, the boats are used for that)</p>
+- <p style='font-size: 15px'>Practical farming projects for organic food and hemp, show the economic feasibility for local farmers & businessmen. Carbon Credit harvesting, store carbon credit in Hemp Building materials.</p>
+- <p style='font-size: 15px'>Research, invite experts to come and stay in our facilities and do practical research and help create educational content (video & augmented reality)</p>
 
 <p style='font-size: 15px'>
-Current Status
+Current Status:
 </p>
 
-- 30 people team
-- Movable platform of 4 boats: total of 44 rooms; completely off the grid, solar & water filtration; 4 educational rooms
-- We are working to buy or long term lease +1.000.000m2 land.
-- Powerful manager with connections to president Sisi to organize our requirements.
+- <p style='font-size: 15px'>30 people team</p>
+- <p style='font-size: 15px'>Movable platform of 4 boats: total of 44 rooms; completely off the grid, solar & water filtration; 4 educational rooms</p>
+- <p style='font-size: 15px'>We are working to buy or long term lease +1.000.000m2 land.</p>
+- <p style='font-size: 15px'>Powerful manager with connections to president Sisi to organize our requirements.</p>
 
-Global expansion of OurWorld Ecosystem and beyond.
+<p style='font-size: 15px'>
+Global expansion of OurWorld Ecosystem and beyond:
+</p>
 
-- Train the Trainer sessions (2-week sessions), to train the trainer around OurWorld and allow them to go in the world and create their own OurWorld Regional Internet from scratch.
-- Organize awareness retreats for investors,  business people and change makers on the Nile, which is a very powerful energy instrument. We have been incredibly successful organizing these events. 
+- <p style='font-size: 15px'>Train the Trainer sessions (2-week sessions), to train the trainer around OurWorld and allow them to go in the world and create their own OurWorld Regional Internet from scratch.</p>
+- <p style='font-size: 15px'>Organize awareness retreats for investors,  business people and change makers on the Nile, which is a very powerful energy instrument. We have been incredibly successful organizing these events.</p>
 
+<p style='font-size: 15px'>
 We want to allow any other change making organization to use our platform and organize change making events, it's incredibly impactful.
+</p>
 
 |||
+
+![Nile](img/nilelocation1.jpeg#large)
+
+<br>
+
+![Nile](img/nilelocation2.jpg#large)
+
+<br>
+
+![Nile](img/nilelocation3.jpeg#large)
 
 {% end %}
 
 {% row(bgColor="#F2F2F2" margin="moderate" padding="top" id="fflow_grid") %}
+
+![Farms](img/farmlocation1.jpg#large)
+
+<br>
+
+![Farms](img/farmlocation2.jpg#large)
+
+<br>
+
+![Farms](img/farmlocation3.jpg#large)
 
 |||
 
 ### Tanzania & Zanzibar Farms
 
 <p style='font-size: 15px'>
-OUR-PARADISE Farming projects, larger scale Regenerative Farming, Hemp, … Help is unbelievable to “grow” our own future OUR-PARADISE Villas and Bungalows.
+OUR-PARADISE Farming projects, larger scale Regenerative Farming, Hemp, … Hemp is unbelievable to “grow” our own future OUR-PARADISE Villas and Bungalows.
 </p>
 
 <p style='font-size: 15px'>
@@ -178,13 +212,13 @@ We are buying +100.000m2 farming land in Zanzibar and + 5,000,000 m2 farming lan
 This land will be protected property, and can never be abused in any possible way. The land can only be used for:
 </p>
 
-- Regenerative organic farming 
-- Working with local communities (Social Inclusion projects) Empower local communities to build a resilient(safe & secure), prosperous and regenerative daily/ food & dairy product supply chain.
-- Education projects to do with regenerative farming and regenerative internet (EarthSchool/ElementSchool)
-- Research projects and programs experimenting with the best regenerative food and agriculture practices.
-- Conscious living in mobile structures, 100% eco friendly in balance with the organic farming
-- Keep the benefit of the farming in Zanzibar and for the people of Zanzibar (local economies)
-- Farming of Internet Capacity (provide energy to the Regenerative Zanzibar Internet)
+- <p style='font-size: 15px'>Regenerative organic farming</p>
+- <p style='font-size: 15px'>Working with local communities (Social Inclusion projects) Empower local communities to build a resilient(safe & secure), prosperous and regenerative daily/ food & dairy product supply chain.</p>
+- <p style='font-size: 15px'>Education projects to do with regenerative farming and regenerative internet (EarthSchool/ElementSchool)</p>
+- <p style='font-size: 15px'>Research projects and programs experimenting with the best regenerative food and agriculture practices.</p>
+- <p style='font-size: 15px'>Conscious living in mobile structures, 100% eco friendly in balance with the organic farming</p>
+- <p style='font-size: 15px'>Keep the benefit of the farming in Zanzibar and for the people of Zanzibar (local economies)</p>
+- <p style='font-size: 15px'>Farming of Internet Capacity (provide energy to the Regenerative Zanzibar Internet)</p>
 
 <p style='font-size: 15px'>
 People who live around the Farming projects can find work and education on the land.
@@ -194,9 +228,9 @@ People who live around the Farming projects can find work and education on the l
 How can we help
 </p>
 
-- Local farmers don’t have enough knowledge how to produce the right foods and other natural resources.
-- A lot of land is wasted and sold to external investors for the wrong reasons.  The island is growing fast, more protection is needed asap.
-- A lot of water is wasted and not used properly.
+- <p style='font-size: 15px'>Local farmers don’t have enough knowledge how to produce the right foods and other natural resources.</p>
+- <p style='font-size: 15px'>A lot of land is wasted and sold to external investors for the wrong reasons.  The island is growing fast, more protection is needed asap.</p>
+- <p style='font-size: 15px'>A lot of water is wasted and not used properly.</p>
 
 {% end %}
 
@@ -209,22 +243,28 @@ Zanzibar in our opinion is one of the most beautiful locations in the world, the
 We have the option to acquire some remaining beautiful beach plots.
 </p>
 
-- One Example is Micamvi close to Paje.
-- Michamvi is an amazing location on the Island, it has incredible hotels around and stunning beaches.
-- The inner side (left side) at low tide, gives room for a huge beach with absolute white sand.
-- It's also home to amazing mangroves, just next to our location, the location is absolutely stunning.
-- We have +-20.000m2 at the beach, and 10.000m2 on a hilltop with amazing views of the sea around.
-- This is an amazing place to live parts of the year or relax after a stay at our healing clinic or resort on the other side of the island.
+- <p style='font-size: 15px'>One Example is Micamvi close to Paje.</p>
+- <p style='font-size: 15px'>Michamvi is an amazing location on the Island, it has incredible hotels around and stunning beaches.</p>
+- <p style='font-size: 15px'>The inner side (left side) at low tide, gives room for a huge beach with absolute white sand.</p>
+- <p style='font-size: 15px'>It's also home to amazing mangroves, just next to our location, the location is absolutely stunning.</p>
+- <p style='font-size: 15px'>We have +-20.000m2 at the beach, and 10.000m2 on a hilltop with amazing views of the sea around.</p>
+- <p style='font-size: 15px'>This is an amazing place to live parts of the year or relax after a stay at our healing clinic or resort on the other side of the island.</p>
 
 <p style='font-size: 15px'>
 Activities in our OUR-PARADISE Beach Villa Resort:
 </p>
 
-- Local Sailing Boats with captains to teach us how to sail.
-- Canoes for the Mangroves
-- Kitesurfing and Windsurfing Boards (with instructors)
-- And last but not least, sailing training in an incredible Trimaran (Dragonfly 28 feet, donated by Kristof).
+- <p style='font-size: 15px'>Local Sailing Boats with captains to teach us how to sail.</p>
+- <p style='font-size: 15px'>Canoes for the Mangroves</p>
+- <p style='font-size: 15px'>Kitesurfing and Windsurfing Boards (with instructors)</p>
+- <p style='font-size: 15px'>And last but not least, sailing training in an incredible Trimaran (Dragonfly 28 feet, donated by Kristof).</p>
 
 |||
+
+![chumbe](img/luxury1.jpg#large)
+
+<br>
+
+![chumbe](img/luxury2.png#large)
 
 {% end %}

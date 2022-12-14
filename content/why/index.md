@@ -4,7 +4,7 @@ description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
-weight: 1
+weight: 2
 ---
 
 <!-- section 1 (JP) -->
@@ -19,6 +19,6 @@ First and foremost, we are planet and people-first. These values are engrained i
 
 |||
 
-![jp](img/jp2.png#large)
+![jp](img/opwhy.jpg#large)
 
 {% end %}

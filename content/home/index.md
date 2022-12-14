@@ -38,11 +38,15 @@ weight: 1
 
 #### **Mbweni Ruins & Botanical Gardens**
 
+Historical ruins alongside beautiful and diverse gardens with a variety of fine specimens
+
 |||
 
 ![Chumbe Island](img/chumbe.jpeg)
 
 #### **Chumbe Island**
+
+An idyllic tropical island that is situated about 6 km west of the larger island of Zanzibar
 
 |||
 
@@ -94,7 +98,7 @@ Eco Resort with 7 beach bungalows on Chumbe Island
 
 #### **Eco Beach Villas**
 
-10 Eco Beach Villas in Zanzibar with 3 or 4 rooms.
+10 Eco Beach Villas in Zanzibar with 3 or 4 rooms
 
 |||
 
@@ -102,28 +106,34 @@ Eco Resort with 7 beach bungalows on Chumbe Island
 
 #### **Regenerative Farm**
 
-Large Regenerative Farm in Tanzania with +20 eco rooms.
+Large Regenerative Farm in Tanzania with +20 eco rooms
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+## Activities
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-## Activities
+![Zanzibar Activities](img/beach_activities_2.jpg#mx-auto#large)
 
-<br>
-
-![ Activities ](img/beach_activities.jpg#mx-auto#large)
-
-### Chumbe and Mbweni Zanzibar Activities
+### Zanzibar Activities
 
 Diving & Snorkeling <br>
 Tropical Garden Exploration Trips <br>
 Sailing Center at Mbweni Ruins & Botanical Gardens <br>
-Ayurvedic Center  + Advanced Healing Clinic (Planned 2023) <br>
-Deep Sea Exploration (Planned 2023)
+Ayurvedic Center  + Advanced Healing Clinic (2023) <br>
+Deep Sea Exploration (2023)<br>
+
+|||
+
+![Nile Activities](img/nile_activities.jpg#mx-auto#large)
 
 ### Nile Activities
-Health & Healing Retreat Activities (including Healers, Ice Bath, Yoga,  Mediation) <br>
+Health & Healing Retreat Activities<br>
 Amazing temples of the Nile <br>
 Pyramid Giza <br>
 Nubian Village <br>
@@ -141,9 +151,8 @@ Luxor Secret Tour + Balloon Trips
 
 ![Earth Protection](img/earth_pro.png#mx-auto#large)
 
-Chumbe Island <br>
-Mbweni Ruins <br>
-Mbweni Botanical Gardens <br>
-Mbweni Mangrove Forest
+By creating our own paradise we have a responsibility to the planet. As such, we will have four initial projects to ensure the conservation and regeneration of the various locations in which we will be present: Chumbe Island, Mbweni Ruins, Mbweni Botanical Gardens, and the Mbweni Mangrove Forest.
+
+<button>[Learn More](/protection)</button>
 
 {% end %}
