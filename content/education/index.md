@@ -14,6 +14,10 @@ weight: 5
 
 ## Education Initiatives
 
-### On the ground, empowering a better tomorrow
+### Coming Soon
+
+“Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.” —Maimonides
+
+
 
 {% end %}

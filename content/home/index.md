@@ -11,11 +11,13 @@ weight: 1
 
 {% row(style="center narrow" margin="header" bgPath="img/home_header.jpg" bgStyle="full") %}
 
- ## OurParadise
+ ## Welcome to OurParadise
  
- ### Our Abundance-Based Paradise 
+ ### A Co-Owned Abundance-Based System
 
- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? A home where we can always go to find healing, like-minded people, and safety.
+ Our mission is to conserve and protect unique locations by promoting eco-tourism and education. We strive to raise awareness of the importance of environmental conservation and to inspire people to take action to regenerate our planet.
+
+ <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
 
  <br>
  <br>
@@ -34,11 +36,11 @@ weight: 1
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Mbweni Ruins & Botanical Gardens](img/mbweni.jpeg)
+![Mbweni Ruins](img/mbweni.jpeg)
 
-#### **Mbweni Ruins & Botanical Gardens**
+#### **Mbweni Ruins**
 
-Historical ruins alongside beautiful and diverse gardens with a variety of fine specimens
+Historical ruins surrounded by beautiful lush gardens featuring a variety of native and exotic plants.
 
 |||
 
@@ -46,33 +48,33 @@ Historical ruins alongside beautiful and diverse gardens with a variety of fine 
 
 #### **Chumbe Island**
 
-An idyllic tropical island that is situated about 6 km west of the larger island of Zanzibar
+An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuary.
 
 |||
 
 ![Boutique 4-star hotel](img/boutique_hotel.png)
 
-#### **Boutique 4-Star Hotel**
+#### **Jungle Paradise**
 
- 4-star hotel with 13 rooms at Mbweni Ruins & Botanical Gardens
+ A 4-star boutique hotel with 13 rooms, overseeing one of the most magestic beaches nearby Zanzibar Town.
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Digital Nomad apartments](img/fake_nomad.png)
+![Digital Nomad apartments](img/fake_nomad.jpeg)
 
-#### **Digital Nomad Apartments**
+#### **Mbweni Apartments**
 
-Digital Nomad apartments with 28 rooms at Mbweni Ruins & Botanical Gardens
+28 rooms two minutes from the Mbweni Ruins & Botanical Gardens, for digital nomads and volunteers.
 
 |||
 
 ![Eco Resort](img/eco_resort.png)
 
-#### **Eco Resort**
+#### **Eco-Bungalows**
 
-Eco Resort with 7 beach bungalows on Chumbe Island
+7 simple yet stunning eco-bungalows, perfectly blended with the surrounding nature of Chumbe Island.
 
 |||
 
@@ -80,7 +82,7 @@ Eco Resort with 7 beach bungalows on Chumbe Island
 
 #### **Dahabiyas**
 
-4 Organic and Luxurious Dahabiyas (classic boats) on the Nile (39 Rooms, solar, organic food
+4 unique, authentic, and private Nile river boats with organic food and a warm-hearted crew.
 
 {% end %}
 
@@ -88,7 +90,7 @@ Eco Resort with 7 beach bungalows on Chumbe Island
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Planned Paradises
+## Upcoming Paradises
 
 {% end %}
 
@@ -98,15 +100,15 @@ Eco Resort with 7 beach bungalows on Chumbe Island
 
 #### **Eco Beach Villas**
 
-10 Eco Beach Villas in Zanzibar with 3 or 4 rooms
+10 planned villas on the Zanzibar coast with stylish organic design, for eco-conscious visitors.
 
 |||
 
 ![Regenerative Farm](img/regenerative_farm.png)
 
-#### **Regenerative Farm**
+#### **Regenerative Farms**
 
-Large Regenerative Farm in Tanzania with +20 eco rooms
+Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farming and food safety.
 
 {% end %}
 
@@ -122,22 +124,15 @@ Large Regenerative Farm in Tanzania with +20 eco rooms
 
 ### Zanzibar Activities
 
-Diving & Snorkeling <br>
-Tropical Garden Exploration Trips <br>
-Sailing Center at Mbweni Ruins & Botanical Gardens <br>
-Ayurvedic Center  + Advanced Healing Clinic (2023) <br>
-Deep Sea Exploration (2023)<br>
+Experience an authentic paradise through diving and snorkeling, sailing, and tropical garden exploration trips. In 2023, we are planning deep sea explorations and the creation of an Ayurvedic Center & Advanced Healing Clinic. Hakuna Matata!
 
 |||
 
 ![Nile Activities](img/nile_activities.jpg#mx-auto#large)
 
 ### Nile Activities
-Health & Healing Retreat Activities<br>
-Amazing temples of the Nile <br>
-Pyramid Giza <br>
-Nubian Village <br>
-Luxor Secret Tour + Balloon Trips
+
+Go deep with health and healing retreat activities, the amazing temples of the Nile and the Great Pyramids of Gaza. We'll take you through Nubian Villages and a secret tour of Luxor. Fly high with a sunrise trip on a hot air balloon. Yallah, habibi!
 
 {% end %}
 
@@ -145,13 +140,13 @@ Luxor Secret Tour + Balloon Trips
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Earth Protection
+## Protectors of Paradise
 
 <br>
 
 ![Earth Protection](img/earth_pro.png#mx-auto#large)
 
-By creating our own paradise we have a responsibility to the planet. As such, we will have four initial projects to ensure the conservation and regeneration of the various locations in which we will be present: Chumbe Island, Mbweni Ruins, Mbweni Botanical Gardens, and the Mbweni Mangrove Forest.
+By creating our own paradise we have a responsibility to the planet. As such, we have four initial projects to ensure the conservation and regeneration of OurParadise – Chumbe Island, Mbweni Ruins, Mbweni Botanical Gardens, and the Mbweni Mangrove Forest.
 
 <button>[Learn More](/protection)</button>
 

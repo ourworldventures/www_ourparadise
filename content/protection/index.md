@@ -14,9 +14,9 @@ weight: 4
 <br>
 <br>
 
-## Protection Program 
+## Protection Programs
 
-### Regenerative Planet and People First Approach
+### A Regenerative Planet and People First Approach
 
 By creating our own paradise we have a responsibility to the planet and we support 4 initial projects:
 
