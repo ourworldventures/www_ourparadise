@@ -11,7 +11,7 @@ weight: 1
 
 {% row(style="center narrow" margin="header" bgPath="img/home_header.jpg" bgStyle="full") %}
 
- ## OURPARADISE
+ ## OurParadise
  
  ### Our Abundance-Based Paradise 
 
