@@ -15,7 +15,9 @@ weight: 1
  
  ### A Co-Owned Abundance-Based System
 
- Our mission is to conserve and protect unique locations by promoting eco-tourism and education. We strive to raise awareness of the importance of environmental conservation and to inspire people to take action to regenerate our planet.
+ <br>
+
+ Our mission is to conserve and protect unique locations by promoting eco-tourism and education. <br> We strive to raise awareness of the importance of environmental conservation  <br> and to inspire people to take action to regenerate our planet.
 
  <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
 
@@ -34,7 +36,7 @@ weight: 1
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 ![Mbweni Ruins](img/mbweni.jpeg)
 
@@ -86,6 +88,11 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 {% end %}
 
+{% row(style="center" margin="narrow" padding="none") %}
+
+ <button><a href="/locations">Learn More</a></button>
+
+{% end %}
 <!-- section 3 -->
 
 {% row(style="center" margin="narrow" padding="top") %}

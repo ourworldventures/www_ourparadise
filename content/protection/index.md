@@ -112,3 +112,10 @@ By creating our own paradise we have a responsibility to the planet.
 <p style='font-size: 15px'>We are restoring the degraded part of Mbweni mangrove forest with 10,000 Mangrove seedlings through community-based restoration, since March 2018 and up to the moment we have restored 5200 seedlings.</p>
 
 {% end %}
+
+
+{% row(style="center narrow") %}
+
+<button>[Learn More](/education)</button>
+
+{% end %}

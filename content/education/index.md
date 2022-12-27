@@ -15,9 +15,8 @@ weight: 5
 
 “Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.” —Maimonides
 
-<br>
-<br>
-<br>
-<br>
+
+<button>[Contact Us](/contact)</button>
+
 
 {% end %}

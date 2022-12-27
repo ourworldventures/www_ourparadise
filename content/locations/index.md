@@ -6,6 +6,19 @@ updated: 2021-02-20
 draft: false
 weight: 3
 ---
+<!-- section 1 (JP) -->
+
+{% row(style="center narrow" margin="header" bgPath="img/luxury.jpeg" bgStyle="full") %}
+
+## Our Locations
+
+### Discover Places Where You Can Make a Change
+
+<br>
+
+OurParadise consist of numerous beautiful eco-friendly destinations, a place where you are invited to learn about local cultures, conservational programs and contribute and support to the betterment of society.
+
+{% end %}
 
 <!-- section 1 (JP) -->
 
@@ -14,7 +27,7 @@ weight: 3
 ### Chumbe Island
 
 <p style='font-size: 15px'>
-6 km south of Stone Town, surrounded by pristine coral reefs, Chumbe Island Coral Park is one of the world's most successful ecotourism projects. In 1994 the reef surrounding Chumbe island was created as Tanzania's first Marine National Park. The island itself, covered with lush mangrove forest, is a designated forest reserve.
+6 km south of Stone Town, surrounded by pristine coral reefs, Chumbe Island Coral Park is one of the world's most successful ecotourism projects. In 1994 the reef surrounding Chumbe island was created as Tanzania's first Marine National Park.
 </p>
 
 <p style='font-size: 15px'>
@@ -22,11 +35,7 @@ Chumbe Island Coral Park won the British Airways Tourism for Tomorrow Award in 1
 </p>
 
 <p style='font-size: 15px'>
-Chumbe island contains a lighthouse, built by the British in 1904 and still operational, a ruined Mosque, and the lighthouse keeper's house, now converted into a spectacularly-built education center and restaurant.
-</p>
-
-<p style='font-size: 15px'>
-Visitors can come for the day to snorkel over the incredible coral reef, which contains over 90% of all coral species ever recorded in East Africa. The reef, declared the 'world's best shallow water coral reef' by the Australian Institute of Marine Science, is home to over 370 species of fish, turtles, and dolphins. Guided walks are also available through the island's coral rag forest, which supports a unique flora and wildlife population including the rare - and enormous - coconut crab.
+Visitors can come for the day to snorkel over the incredible coral reef, which contains over 90% of all coral species ever recorded in East Africa. The reef, declared the 'world's best shallow water coral reef' by the Australian Institute of Marine Science, is home to over 370 species of fish, turtles, and dolphins.
 </p>
 
 <p style='font-size: 15px'>
@@ -34,7 +43,7 @@ But to experience Chumbe Island properly, stay the night in one of the seven 'ec
 </p>
 
 <p style='font-size: 15px'>
-Water and energy on Chumbe are self-sustaining and provided by nature - the roofs of the bandas and the education center have been designed to catch and filter rainwater, which is then heated by solar power. Beds are high in the palm-thatch roof, with a personal air-conditioning system that involves raising and lowering the front wall of the bedroom like a portcullis!
+Water and energy on Chumbe are self-sustaining and provided by nature - the roofs of the bandas and the education center have been designed to catch and filter rainwater, which is then heated by solar power.
 </p>
 
 <p style='font-size: 15px'>
@@ -43,7 +52,7 @@ All profits from tourism on Chumbe Island are reinvested into the conservation a
 
 |||
 
-![chumbe](img/chumbe_location.png#large)
+![chumbe](img/chumbe_location.jpeg#large)
 
 {% end %}
 
@@ -62,11 +71,11 @@ All profits from tourism on Chumbe Island are reinvested into the conservation a
 ### Mbweni Ruins & Botanical Gardens
 
 <p style='font-size: 15px'>
-Today, this location is an operational boutique hotel in front of one of the absolute nicest beaches at this side of the island. The hotel today has 13 rooms today and will be upgraded to more rooms in a sustainable way.
+Today, this location is an operational eco-friendly boutique hotel in front of one of the absolute nicest beaches at this side of the island
 </p>
 
 <p style='font-size: 15px'>
-The resort is very uniquely positioned, only 15 minutes away from the airport and Stone Town, yet it's an absolutely stunning and quiet place on the beach. The resort is a jungle place, there are more than 280 different tree species (including 80  different types of palm trees), some of them very old and even unique on the island. This place allows us to go back in time but yet still has all the conveniences of modern times.
+The resort is a quiet, beach-front jungle hideaway, a home to more than 280 different tree species (including 80  different types of palm trees).
 </p>
 
 <p style='font-size: 15px'>
@@ -81,18 +90,14 @@ The Mbweni Ruins & Gardens are unbelievably rich from a historical perspective. 
 A healing center will be built and will host incredible technology (both ancient and new wisdom) for body, mind, and spirit . The therapies available are literally life saving or complete rejuvenation. 
  </p>
 
-<p style='font-size: 15px'>
-More info see: http://hq.ourworld.tf
-</p>
-
 {% end %}
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
 
-### Egypt Nile
+### Egypt Nile River
 
 <p style='font-size: 15px'>
-The Nile is not only gorgeous but also an incredibly energy-rich location. The river has always played an important role in global shifting situations. It is fundamentally important and can use some help right now.
+The Nile is not only gorgeous but also an incredibly energy-rich location. The river has always played an important role in global shifting situations.
 </p>
 
 <p style='font-size: 15px'>
@@ -104,15 +109,15 @@ Our Impact activities for Egypt include knowledge-creation and awareness educati
 </p>
 
 <p style='font-size: 15px'>
-Today already we have four boats (movable platforms for authentic experiences) with a 30-person team. The boats together total 44 sleeping rooms and 4 educational rooms, along with solar energy and water filtration. We are working to buy or long-term lease 1.000.000 square meters of land, all in collaboration with a powerful manager with connections to President Sisi, to organize our requirements.
+Today already we have four boats (movable platforms for authentic experiences) with a 30-person team. The boats together total 44 sleeping rooms and 4 educational rooms, along with solar energy and water filtration.
 </p>
 
 <p style='font-size: 15px'>
-We have plans to leverage these boats for the expansion of OurWorld Ecosystem and beyond. Train the Trainer (two-week) sessions will permit us to train those who feel the calling around OurWorld, and allow them to go into the world, advocate, and expand our communities. Additionally, we organize retreats for investors, business people, and change-makers on the Nile, an extremely powerful energy instrument.
+We're leveraging these boats for the expansion of OurWorld Ecosystem and beyond. Train the Trainer (two-week) sessions will permit us to train those who feel the calling around OurWorld, and allow them to go into the world, advocate, and expand our communities. Additionally, we organize retreats for investors, business people, and change-makers on the Nile, an extremely powerful energy instrument.
 </p>
 
 <p style='font-size: 15px'>
-Ultimately, we want to empower any other change-making organization to use our platform and organize events – it's proven to be incredibly impactful.
+Ultimately, we want to empower any other changemakers to use our platform and organize events – it's proven to be incredibly impactful.
 </p>
 
 |||
@@ -169,6 +174,13 @@ Zanzibar, in our opinion, is one of the most fantastic locations in the world, a
 
 |||
 
-![chumbe](img/luxury2.png#large)
+![chumbe](img/zanzibarvillas.jpeg#large)
+
+{% end %}
+
+
+{% row(style="center narrow") %}
+
+<button>[Get Involved](/protection)</button>
 
 {% end %}

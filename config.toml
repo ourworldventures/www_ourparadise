@@ -2,8 +2,8 @@
 base_url = "https://ourparadise.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "Ournomads"
-description="Our global digital backbone"
+title = "OurParadise"
+description="OurParadise Project, strive to protect."
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true
