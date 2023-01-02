@@ -62,7 +62,6 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
  A 4-star boutique hotel with 13 rooms, overseeing one of the most magestic beaches nearby Zanzibar Town.
 
- <button>[Info](/locations/jungleparadise)</button>
 
 {% end %}
 
@@ -73,8 +72,6 @@ An award-winning private nature reserve, home to one of the world's most pristin
 #### **Mbweni Apartments (Tanzania)**
 
 28 rooms two minutes from the Mbweni Ruins & Botanical Gardens, for digital nomads and volunteers.
-
- <button>[Info](/locations/mbwenivillas)</button>
 
 |||
 
@@ -93,8 +90,6 @@ An award-winning private nature reserve, home to one of the world's most pristin
 #### **Dahabiyas (Tanzania)**
 
 4 unique, authentic, and private Nile river boats with organic food and a warm-hearted crew.
-
- <button>[Info](/locations/dahabias)</button>
 
 {% end %}
 
