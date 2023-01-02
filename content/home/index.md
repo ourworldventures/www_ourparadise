@@ -40,7 +40,7 @@ weight: 1
 
 ![Mbweni Ruins](img/mbweni.jpeg)
 
-#### **Mbweni Ruins**
+#### **Mbweni Ruins (Tanzania)**
 
 Historical ruins surrounded by beautiful lush gardens featuring a variety of native and exotic plants.
 
@@ -48,17 +48,21 @@ Historical ruins surrounded by beautiful lush gardens featuring a variety of nat
 
 ![Chumbe Island](img/chumbe.jpeg)
 
-#### **Chumbe Island**
+#### **Chumbe Island (Tanzania)**
 
 An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuary.
+
+<button>[Info](/locations/chumbe)</button>
 
 |||
 
 ![Boutique 4-star hotel](img/boutique_hotel.png)
 
-#### **Jungle Paradise**
+#### **Jungle Paradise (Tanzania)**
 
  A 4-star boutique hotel with 13 rooms, overseeing one of the most magestic beaches nearby Zanzibar Town.
+
+ <button>[Info](/locations/jungleparadise)</button>
 
 {% end %}
 
@@ -66,25 +70,31 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 ![Digital Nomad apartments](img/fake_nomad.jpeg)
 
-#### **Mbweni Apartments**
+#### **Mbweni Apartments (Tanzania)**
 
 28 rooms two minutes from the Mbweni Ruins & Botanical Gardens, for digital nomads and volunteers.
+
+ <button>[Info](/locations/mbwenivillas)</button>
 
 |||
 
 ![Eco Resort](img/Eco_resort.png)
 
-#### **Eco-Bungalows**
+#### **Eco-Bungalows (Tanzania)**
 
 7 simple yet stunning eco-bungalows, perfectly blended with the surrounding nature of Chumbe Island.
 
+ <button>[Info](/locations/chumbe)</button>
+
 |||
 
-![Dahabiyas](img/dahabiyas.png)
+![The Niles](img/dahabiyas.png)
 
-#### **Dahabiyas**
+#### **Dahabiyas (Tanzania)**
 
 4 unique, authentic, and private Nile river boats with organic food and a warm-hearted crew.
+
+ <button>[Info](/locations/dahabias)</button>
 
 {% end %}
 
@@ -105,7 +115,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 ![Eco Beach Villas](img/eco_beach.png)
 
-#### **Eco Beach Villas**
+#### **Eco Beach Villas (Tanzania)**
 
 10 planned villas on the Zanzibar coast with stylish organic design, for eco-conscious visitors.
 
@@ -113,7 +123,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 ![Regenerative Farm](img/regenerative_farm.png)
 
-#### **Regenerative Farms**
+#### **Regenerative Farms (Tanzania)**
 
 Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farming and food safety.
 
