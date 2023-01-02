@@ -8,40 +8,80 @@ weight: 3
 ---
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/luxury.jpeg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/jungle1.png" bgStyle="full") %}
 
-## Our Locations
+## Jungle Paradise
 
-### Discover Places Where You Can Make a Change
+### Eco-friendly Boutique Resort
 
 <br>
 
-OurParadise consist of numerous beautiful eco-friendly destinations, a place where you are invited to learn about local cultures, conservational programs and contribute and support to the betterment of society.
+Enjoy the Jungle Paradise beach resort Zanzibar, a hotel with ocean view suites, cocktails at the beach, with a romantic dinner in the restaurant and a sunset beach club.
 
 {% end %}
 
-<!-- section 1 (JP) -->
+{% row(style="center narrow") %}
+
+### More About Jungle Paradise
+
+{% end %}
+
+<!-- section 0 (JP) -->
+
+{% row(bgColor="#FFFFFF" margin="moderate" padding="none" id="fflow_grid") %}
+
+![](img/jungle2.jpeg)
+
+|||
+
+![](img/jungle7.jpeg)
+
+|||
+
+![](img/jungle4.jpeg)
+
+{% end %}
+
+<!-- section 2 (JP) -->
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
 
+![](img/jungle5.jpeg#medium)
 
-### Jungle Paradise Beach Resort Zanzibar
+|||
 
-<p style='font-size: 15px'>
-Jungle Paradise Beach Resort Zanzibar is an operational eco-friendly boutique hotel in front of one of the absolute nicest beaches at this side of the island
+<p>
+Jungle Paradise Beach Resort & Spa at Mbweni Ruins is your ideal choice, if you want to see and enjoy a unique place in Zanzibar Urban West. It's well-known for their historical Mbweni ruins, which took part in the ending of slavery in Zanzibar in the 1870s. Jungle Paradise is surrounded by a beautiful botanic garden which supported over 600 different kinds of tree species. 
 </p>
-
-<p style='font-size: 15px'>
-The resort is a quiet, beach-front jungle hideaway, a home to more than 280 different tree species (including 80  different types of palm trees).
-</p>
-
-<p style='font-size: 15px'>
-The resort is also the HQ of OurWorld Concept – an innovative approach to co-creating a better, more regenerative world. The resort will be used to come together with change makers from around the globe, in combination with our retreats on the Nile.
 
 {% end %}
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
 
-<button>[Get Involved](/protection)</button>
+<p>
+Jungle paradise Beach Resort and Spa features 13 exclusive and cozy, air-conditioned beachfront Suites with a very high service standard. Each room provides a beautiful ocean-view, a private bathroom, Wi-Fi, a flat screen HD-TV with cable channels, a mini bar fridge and a balcony faced to the ocean, beach and pool area.
+</p>
+
+|||
+
+![](img/jungle6.jpeg#medium)
+
+{% end %}
+
+<!-- section 2 (JP) -->
+
+{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+
+![](img/jungle3.jpeg)
+
+|||
+
+You will enjoy a tasty menu in our “Ocean Breeze” Restaurant while listening to calm chill out vibes and watching one of the best sunsets on this side of the island. After the sun downer, you dig into the evening with entertainment based on several themes and artists and a variety of cocktails mixed at our “JP’s Beach Bar”. You will find us 7 minutes close to the airport and 12 minutes from Stone town. We provide a free pickup for you. This could be one of your best and memorable stay on Zanzibar.
+
+{% end %}
+
+{% row(style="center narrow") %}
+
+<button>[See More Locations](/locations)</button>
 
 {% end %}

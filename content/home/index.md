@@ -62,6 +62,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
  A 4-star boutique hotel with 13 rooms, overseeing one of the most magestic beaches nearby Zanzibar Town.
 
+ <button>[Info](/locations/jungleparadise)</button>
 
 {% end %}
 
