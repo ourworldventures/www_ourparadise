@@ -88,7 +88,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 ![The Niles](img/dahabiyas.png)
 
-#### **Dahabiyas (Tanzania)**
+#### **Dahabiyas (Egypt)**
 
 4 unique, authentic, and private Nile river boats with organic food and a warm-hearted crew.
 
