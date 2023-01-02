@@ -72,7 +72,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 |||
 
-![Eco Resort](img/eco_resort.png)
+![Eco Resort](img/Eco_resort.png)
 
 #### **Eco-Bungalows**
 
