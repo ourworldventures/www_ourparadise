@@ -8,10 +8,16 @@ weight: 3
 ---
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/chumbe2.png" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/dahabiyasbg.png" bgStyle="full") %}
+
 
 # Nile Dahabiyas
 
+### Unforgettable Sailing Experience
+
+<br>
+
+#### The Nile is not only gorgeous but also an incredibly energy-rich location. <br>The river has always played an important role in global shifting situations.
 {% end %}
 
 <!-- section 1 (JP) -->
@@ -50,7 +56,7 @@ Ultimately, we want to empower any other changemakers to use our platform and or
 
 <br>
 
-![Nile](img/nilelocation3.jpeg#large)
+![Nile](img/dahabiyas.png#large)
 
 {% end %}
 
