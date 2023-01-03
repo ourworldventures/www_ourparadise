@@ -44,6 +44,9 @@ weight: 1
 
 Historical ruins surrounded by beautiful lush gardens featuring a variety of native and exotic plants.
 
+
+ <button>[Info](/locations/mbweni)</button>
+
 |||
 
 ![Chumbe Island](img/chumbe.jpeg)
@@ -54,39 +57,22 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 <button>[Info](/locations/chumbe)</button>
 
-|||
-
-![Boutique 4-star hotel](img/boutique_hotel.png)
-
-#### **Jungle Paradise (Tanzania)**
-
- A 4-star boutique hotel with 13 rooms, overseeing one of the most magestic beaches nearby Zanzibar Town.
-
- <button>[Info](/locations/jungleparadise)</button>
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Digital Nomad apartments](img/fake_nomad.jpeg)
+![Michamvi](img/michamvi.jpeg)
 
-#### **Mbweni Apartments (Tanzania)**
+#### **Michamvi Villas (Tanzania)**
 
-28 rooms two minutes from the Mbweni Ruins & Botanical Gardens, for digital nomads and volunteers.
-
-|||
-
-![Eco Resort](img/Eco_resort.png)
-
-#### **Eco-Bungalows (Tanzania)**
-
-7 simple yet stunning eco-bungalows, perfectly blended with the surrounding nature of Chumbe Island.
+An amazing location on Zanzibar Island with beach-front hotels and resorts.
 
  <button>[Info](/locations/chumbe)</button>
 
 |||
 
-![The Niles](img/dahabiyas.png)
+![Niles Dahabiyas](img/dahabiyas.png)
 
 #### **Dahabiyas (Egypt)**
 
@@ -96,11 +82,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
 
- <button><a href="/locations">Learn More</a></button>
-
-{% end %}
 <!-- section 3 -->
 
 {% row(style="center" margin="narrow" padding="top") %}

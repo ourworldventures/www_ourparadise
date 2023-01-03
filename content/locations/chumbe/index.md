@@ -99,7 +99,6 @@ All profits from tourism on Chumbe Island are reinvested into the conservation a
 
 {% end %}
 
-
 {% row(style="center narrow") %}
 
 <button>[See More Locations](/locations)</button>
