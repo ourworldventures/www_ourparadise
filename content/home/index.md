@@ -101,7 +101,7 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 |||
 
-![](img/boutique_hotel.png)
+![](img/ecobeach.png)
 
 #### **Eco Beach Villas (Tanzania)**
 
