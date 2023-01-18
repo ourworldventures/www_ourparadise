@@ -93,10 +93,6 @@ An amazing location on Zanzibar Island with beach-front hotels and resorts.
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![](img/eco_beach.png)
-
-#### **Eco Beach Villas (Tanzania)**
-
 10 planned villas on the Zanzibar coast with stylish organic design, for eco-conscious visitors.
 
 |||
@@ -106,6 +102,12 @@ An amazing location on Zanzibar Island with beach-front hotels and resorts.
 #### **Regenerative Farms (Tanzania)**
 
 Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farming and food safety.
+
+|||
+
+![](img/eco_beach.png)
+
+#### **Eco Beach Villas (Tanzania)**
 
 {% end %}
 
