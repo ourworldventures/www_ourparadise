@@ -53,7 +53,7 @@ home to one of the world's most pristine coral reef sanctuary.
 
 Historical ruins surrounded by beautiful lush gardens featuring a variety of native and exotic plants.
 
-<button>[Read More](/locations/chumbe)</button>
+<button>[Read More](/locations/mbweni)</button>
 
 {% end %}
 
