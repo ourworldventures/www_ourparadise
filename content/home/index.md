@@ -93,7 +93,7 @@ An amazing location on Zanzibar Island with beach-front hotels and resorts.
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Eco Beach Villas](img/eco_beach.png)
+![](img/eco_beach.png)
 
 #### **Eco Beach Villas (Tanzania)**
 
