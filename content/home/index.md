@@ -17,12 +17,10 @@ weight: 1
 
  <br>
 
- Our mission is to conserve and protect unique locations by promoting eco-tourism and education. <br> We strive to raise awareness of the importance of environmental conservation  <br> and to inspire people to take action to regenerate our planet.
+ Our mission is to conserve and protect unique locations around the world by promoting eco-tourism and eco-education and the preservation and empowerment of local cultures, starting in Zanzibar and Tanzania.<br><br>We strive to raise awareness of the importance of environmental and cultural conservation, and to inspire people to take action to regenerate our planet and to protect, empower, and learn from local peoples and their traditions.
 
  <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
 
- <br>
- <br>
  <br>
  <br>
 
@@ -32,18 +30,19 @@ weight: 1
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Current Paradises
+## Karibu Zanzibar
+
+### First Locations
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ![Mbweni Ruins](img/mbweni.jpeg)
 
-#### **Mbweni Ruins (Tanzania)**
+#### **Mbweni Ruins & Jungle Paradise**
 
 Historical ruins surrounded by beautiful lush gardens featuring a variety of native and exotic plants.
-
 
  <button>[Info](/locations/mbweni)</button>
 
@@ -51,51 +50,29 @@ Historical ruins surrounded by beautiful lush gardens featuring a variety of nat
 
 ![Chumbe Island](img/chumbe.jpeg)
 
-#### **Chumbe Island (Tanzania)**
+#### **Chumbe Island**
 
 An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuary.
 
 <button>[Info](/locations/chumbe)</button>
 
-
 {% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-![Michamvi](img/michamvi.jpeg)
-
-#### **Michamvi Villas (Tanzania)**
-
-An amazing location on Zanzibar Island with beach-front hotels and resorts.
-
- <button>[Info](/locations/chumbe)</button>
-
-|||
-
-![Niles Dahabiyas](img/dahabiyas.png)
-
-#### **Dahabiyas (Egypt)**
-
-4 unique, authentic, and private Nile river boats with organic food and a warm-hearted crew.
-
-<button>[Info](/locations/dahabiyas)</button>
-
-{% end %}
-
 
 <!-- section 3 -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Upcoming Paradises
+## Next Up
+
+### Planned Locations
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Regenerative Farm](img/regenerative_farm.png)
+![Regenerative Farm](img/regenerative_farm.jpg)
 
-#### **Regenerative Farms (Tanzania)**
+#### **Regenerative Farms**
 
 Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farming and food safety.
 
@@ -103,7 +80,7 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 ![](img/ecobeach.png)
 
-#### **Eco Beach Villas (Tanzania)**
+#### **Eco Beach Villas**
 
 10 planned villas on the Zanzibar coast with stylish organic design, for eco-conscious visitors.
 
@@ -117,19 +94,27 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Zanzibar Activities](img/beach_activities_2.jpg#mx-auto#large)
+![General Activities](img/beach_activities_2.jpg#mx-auto#large)
 
-### Zanzibar Activities
+### Experience
 
-Experience an authentic paradise through diving and snorkeling, sailing, and tropical garden exploration trips. In 2023, we are planning deep sea explorations and the creation of an Ayurvedic Center & Advanced Healing Clinic. Hakuna Matata!
+Experience an authentic paradise through diving, snorkeling and tropical garden explorations. In 2023, we are planning deep sea explorations and the creation of an Ayurvedic Center & Advanced Healing Clinic.
 
 |||
 
-![Nile Activities](img/nile_activities.jpg#mx-auto#large)
+![Crafts](img/local_culture.jpg#mx-auto#large)
 
-### Nile Activities
+### Crafts
 
-Go deep with health and healing retreat activities, the amazing temples of the Nile, and the Great Pyramids of Gaza. We'll take you through Nubian Villages and a secret tour of Luxor. Fly high with a sunrise hot air balloon trip. Yallah!
+Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibarian practices and create beautiful products at the same time.
+
+|||
+
+![Crafts](img/boats.jpg#mx-auto#large)
+
+### On the Water
+
+Take day or overnight trips on one of our two sailing boats – one an eco-friendly Turkish Gulet and the other a simple and fun Zanzibarian catamaran. Or enjoy watersports in the lagoon.
 
 {% end %}
 
