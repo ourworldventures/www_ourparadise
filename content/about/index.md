@@ -1,5 +1,5 @@
 ---
-title: "Why"
+title: "About"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -11,7 +11,7 @@ weight: 2
 
 {% row(style="center narrow" margin="header" bgPath="img/opwhy.jpg" bgStyle="full") %}
 
-## Our Why
+## Our Why 
 
 ### Planet. People. Authenticity.
 

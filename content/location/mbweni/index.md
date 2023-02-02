@@ -10,7 +10,7 @@ weight: 3
 
 {% row(style="center narrow" margin="header" bgPath="img/jungle1.png" bgStyle="full") %}
 
-## Mbweni Ruins & Botanical Gardens
+## Jungle Paradise @ Mbweni Ruins
 
 ### Unique Landscape Welcomes You Home
 
@@ -19,56 +19,6 @@ weight: 3
 Enjoy the Jungle Paradise beach resort Zanzibar, a unique historical landscape with ocean views resort, cocktails at the beach, with a romantic dinner in the restaurant and a sunset beach club.
 
 {% end %}
-
-
-<!-- section 0 (JP) -->
-
-{% row(style="center narrow" bgColor="#FFFFFF" margin="header" padding="none" id="fflow_grid") %}
-
-### Mbweni Ruins & Botanical Gardens
-
-{% end %}
-
-{% row(bgColor="#FFFFFF" margin="moderate" padding="none" id="fflow_grid") %}
-
-![](img/jungle2.jpeg)
-
-|||
-
-![](img/jungle7.jpeg)
-
-|||
-
-![](img/jungle4.jpeg)
-
-{% end %}
-
-<!-- section 2 (JP) -->
-
-{% row(style="center narrow" bgColor="#FFFFFF" margin="moderate" padding="none" id="fflow_grid") %}
-
-<p>
-Today, this location is an operational eco-friendly boutique hotel in front of one of the absolute nicest beaches at this side of the island
-</p>
-
-<p>
-The resort is a quiet, beach-front jungle hideaway, a home to more than 280 different tree species (including 80  different types of palm trees).
-</p>
-
-<p>
-The resort is also the HQ of OurWorld Concept – an innovative approach to co-creating a better, more regenerative world. The resort will be used to come together with change makers from around the globe, in combination with our retreats on the Nile.
-</p>
-
-<p>
-The Mbweni Ruins & Gardens are unbelievably rich from a historical perspective. They are home to amazing ruins dating from 1870 – which are perfect for events and gatherings – and the plan is to transform the ruins back to their original glory.
-</p>
-
-<p>
-A healing center will be built and will host incredible technology (both ancient and new wisdom) for body, mind, and spirit . The therapies available are literally life saving or complete rejuvenation. 
- </p>
-
-{% end %}
-
 
 {% row(style="center narrow" bgColor="#FFFFFF" margin="header" padding="none" id="fflow_grid") %}
 
@@ -135,5 +85,53 @@ You will enjoy a tasty menu at the beach-front restaurant while listening to cal
 {% row(style="center narrow") %}
 
 <button>[See More Locations](/locations)</button>
+
+{% end %}
+
+<!-- section 0 (JP) -->
+
+{% row(style="center narrow" bgColor="#FFFFFF" margin="header" padding="none" id="fflow_grid") %}
+
+### Mbweni Ruins & Botanical Gardens
+
+{% end %}
+
+{% row(bgColor="#FFFFFF" margin="moderate" padding="none" id="fflow_grid") %}
+
+![](img/jungle2.jpeg)
+
+|||
+
+![](img/jungle7.jpeg)
+
+|||
+
+![](img/jungle4.jpeg)
+
+{% end %}
+
+<!-- section 2 (JP) -->
+
+{% row(style="center narrow" bgColor="#FFFFFF" margin="moderate" padding="none" id="fflow_grid") %}
+
+<p>
+Today, this location is an operational eco-friendly boutique hotel in front of one of the absolute nicest beaches at this side of the island
+</p>
+
+<p>
+The resort is a quiet, beach-front jungle hideaway, a home to more than 280 different tree species (including 80  different types of palm trees).
+</p>
+
+<p>
+The resort is also the HQ of OurWorld Concept – an innovative approach to co-creating a better, more regenerative world. The resort will be used to come together with change makers from around the globe, in combination with our retreats on the Nile.
+</p>
+
+<p>
+The Mbweni Ruins & Gardens are unbelievably rich from a historical perspective. They are home to amazing ruins dating from 1870 – which are perfect for events and gatherings – and the plan is to transform the ruins back to their original glory.
+</p>
+
+<p>
+A healing center will be built and will host incredible technology (both ancient and new wisdom) for body, mind, and spirit . The therapies available are literally life saving or complete rejuvenation. 
+ </p>
 
 {% end %}

@@ -1,5 +1,5 @@
 ---
-title: "Locations"
+title: "Location"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -10,9 +10,9 @@ weight: 3
 
 {% row(style="center narrow" margin="header" bgPath="img/luxury.jpeg" bgStyle="full") %}
 
-## Our Locations
+## Our Location
 
-### Discover Places Where You Can Make a Change
+### Discover Places Where You Can Make a Change 
 
 <br>
 

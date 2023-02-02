@@ -9,17 +9,15 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center narrow" margin="header" bgPath="img/home_header.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/new_home.jpg" bgStyle="full") %}
 
  ## Welcome to OurParadise
  
- ### A Co-Owned Abundance-Based System
+ ### Jungle Paradise Beach Resort & Spa @ Mbweni Ruins, Zanzibar
 
  <br>
 
- Our mission is to conserve and protect unique locations around the world by promoting eco-tourism and eco-education and the preservation and empowerment of local cultures, starting in Zanzibar and Tanzania.<br><br>We strive to raise awareness of the importance of environmental and cultural conservation, and to inspire people to take action to regenerate our planet and to protect, empower, and learn from local peoples and their traditions.
-
- <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
+ On the west coast of Zanzibar, just ten minutes from Stone Town and the international airport, sits a beautiful and historical destination point for eco-tourism, and a community space for like-minded people to gather.
 
  <br>
  <br>
@@ -32,7 +30,7 @@ weight: 1
 
 ## Karibu Zanzibar
 
-### First Locations
+### Karibu means **"Welcome (to)"** in Swahili
 
 {% end %}
 
@@ -40,7 +38,7 @@ weight: 1
 
 ![Mbweni Ruins](img/mbweni.jpeg)
 
-#### **Mbweni Ruins & Jungle Paradise**
+#### **Jungle Paradise** @ Mbweni Ruins
 
 Historical ruins surrounded by beautiful lush gardens featuring a variety of native and exotic plants.
 
@@ -58,34 +56,6 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 {% end %}
 
-<!-- section 3 -->
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## Next Up
-
-### Planned Locations
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-![Regenerative Farm](img/regenerative_farm.jpg)
-
-#### **Regenerative Farms**
-
-Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farming and food safety.
-
-|||
-
-![](img/ecobeach.png)
-
-#### **Eco Beach Villas**
-
-10 planned villas on the Zanzibar coast with stylish organic design, for eco-conscious visitors.
-
-{% end %}
-
 {% row(style="center" margin="narrow" padding="top") %}
 
 ## Activities
@@ -98,7 +68,7 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 ### Experience
 
-Experience an authentic paradise through diving, snorkeling and tropical garden explorations. In 2023, we are planning deep sea explorations and the creation of an Ayurvedic Center & Advanced Healing Clinic.
+Experience an authentic paradise through relaxation, swimming, and botanical garden explorations. Later in 2023, we are planning deep sea explorations and the creation of an Ayurvedic Center & Advanced Healing Clinic.
 
 |||
 
@@ -106,7 +76,7 @@ Experience an authentic paradise through diving, snorkeling and tropical garden 
 
 ### Crafts
 
-Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibarian practices and create beautiful products at the same time.
+Q1 2023 | Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibari practices.
 
 |||
 
@@ -114,22 +84,6 @@ Learn from locals how to produce crafts, from ceramics to clothing and wood-work
 
 ### On the Water
 
-Take day or overnight trips on one of our two sailing boats – one an eco-friendly Turkish Gulet and the other a simple and fun Zanzibarian catamaran. Or enjoy watersports in the lagoon.
-
-{% end %}
-
-<!-- section 4 -->
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## Protectors of Paradise
-
-<br>
-
-![Earth Protection](img/earth_pro.png#mx-auto#large)
-
-By creating our own paradise we have a responsibility to the planet. As such, we have four initial projects to ensure the conservation and regeneration of OurParadise – Chumbe Island, Mbweni Ruins, Mbweni Botanical Gardens, and the Mbweni Mangrove Forest.
-
-<button>[Learn More](/protection)</button>
+Q1 2023 | Take day or overnight trips on one of our two sailing boats – one an eco-friendly Turkish Gulet and the other a simple and fun catamaran.
 
 {% end %}
