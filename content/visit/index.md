@@ -9,13 +9,11 @@ weight: 6
 
 {% row(style="center narrow" margin="header" bgPath="img/join_header.png" bgStyle="full") %}
 
-## Take Action
+## Karibu Zanzibar
 
-### Be a Part of the Change
+### Join Us For a Visit
 
-Calling dreamers and doers. There are many ways to join in on the efforts to bring the OurParadise vision to life. Come to Zanzibar to collaborate in-person, buy EDEN (see below), or support from afar.
-
-Please note **we are now primarily focused on raising $3M in order to fully acquire Mbweni Ruins and Jungle Paradise**. Today we are already operating from this location.
+Come one, come all. We'd be thrilled to have you. Join us as a guest, or contribute with your time and/or resources. 
 
 <BUTTON><a href = "mailto: info@threefold.io">Send us an Email</a></BUTTON>
 

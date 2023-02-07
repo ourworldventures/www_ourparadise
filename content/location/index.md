@@ -12,11 +12,12 @@ weight: 3
 
 ## Our Location
 
-### Discover Places Where You Can Make a Change 
+### Discover Authentic Paradise in East Africa 
 
-<br>
+Jungle Paradise is located on the west coast of Zanzibar, sitting beside historic ruins, lush botanical gardens, and a mangrove forest. Nearby, the world-renowned Chumbe island awaits.
 
-OurParadise consists of numerous beautiful eco-friendly destinations – starting in Zanzibar & Tanzania – places where you are invited to learn about local cultures, conservational programs, and contribute to and support the betterment of society.
+ <br>
+ <br>
 
 {% end %}
 
@@ -32,11 +33,11 @@ OurParadise consists of numerous beautiful eco-friendly destinations – startin
 
 |||
 
-# Mbweni Ruins & Gardens and Jungle Paradise
+# Jungle Paradise at Mbweni Ruins
 
-Historical ruins surrounded by beautiful lush botanical gardens featuring a variety of native and exotic plants.
+A beachfront hotel that sits beside historical ruins and lush botanical gardens.
 
-<button>[Read More](/locations/mbweni)</button>
+<button>[Read More](/location/mbweni)</button>
 
 {% end %}
 
@@ -46,10 +47,9 @@ Historical ruins surrounded by beautiful lush botanical gardens featuring a vari
 
 # Chumbe Island
 
-An award-winning private nature reserve, <br>
-home to one of the world's most pristine coral reef sanctuary.
+An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuary.
 
-<button>[Read More](/locations/chumbe)</button>
+<button>[Read More](/location/chumbe)</button>
 
 |||
 
