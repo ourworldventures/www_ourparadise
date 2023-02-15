@@ -16,8 +16,12 @@ weight: 3
 
 You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-lined beaches, historic ruins, and lush botanical gardens. Nearby, the world-renowned Chumbe island awaits.
 
- <br>
- <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 {% end %}
 

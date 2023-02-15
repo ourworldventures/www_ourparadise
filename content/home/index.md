@@ -19,9 +19,6 @@ weight: 1
 
   <button>[Support the Project](/action)</button>
 
- <br>
- <br>
-
 {% end %}
 
 <!-- section 2  -->
@@ -36,7 +33,7 @@ Discover authentic paradise. Just ten minutes from Stone Town, a World Heritage 
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
 ![Mbweni Ruins](img/mbweni.jpeg)
 
@@ -54,11 +51,11 @@ For short term stays. A beachfront hotel that sits beside historical ruins, all 
 
 For short and long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
 
-<button>[Info](/location/chumbe)</button>
+ <button>[Info: Coming Soon](/)</button>
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
 ![Mbweni Ruins](img/ouroffice.png)
 
@@ -66,7 +63,7 @@ For short and long-term stays. Two apartment buildings, with four three-bedroom 
 
 A three-floor office space for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
 
- <button>[Info](/location/mbweni)</button>
+ <button>[Info: Coming Soon](/)</button>
 
 |||
 

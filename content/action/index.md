@@ -18,8 +18,4 @@ Today we are already operating from this location and making initial steps. Our 
  <button>[Read the Paper](/)</button>
  <button>[Get In Touch]()</button>
 
-<br>
-<br>
-
-
 {% end %}

@@ -17,8 +17,12 @@ weight: 2
 
 We are fortunate enough to have found this special place and crazy enough to turn our dreams into reality. Together we can show people the beauty of our world and help them find themselves in these hectic times.
 
- <br>
- <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 {% end %}
 
@@ -30,15 +34,17 @@ We are fortunate enough to have found this special place and crazy enough to tur
 
 ### Who We Are
 
+<p>We are an international group of believers in a better world who choose to act to make whatever difference we can. We are dreamers and doers.</p>
+
 <p>
 
-We are an international group of believers in a better world who choose to act to make whatever difference we can. We are dreamers and doers. Primarily we are focused on building out **[a decentralized Internet](https://threefold.io)** owned by the people – a safe, fair, and equal Internet offering private and secure digital tools and experiences. It is a big journey, and a journey we are deeply devoted to.
+Primarily we are focused on building out **[a decentralized Internet](https://threefold.io)** owned by the people – a safe, fair, and equal Internet offering private and secure digital tools and experiences. It is a big journey, and a journey we are deeply devoted to.
 
 </p>
 
 <p>Africa is a continent which has been exploited for centuries, robbed of its culture and its resources. We came to Zanzibar and Tanzania to bring our technology here, to help reverse the story of this country and the wider continent.</p>
 
-<p>Together with local people of Zanzibar and Tanzania and foreigners alike, we are creating a safe space for us all, while protecting our mother earth.</p>
+<p>We believe that collaboration is the key to a better future. So, together we are creating a safe space for us all, while protecting our mother earth.</p>
 
 {% end %}
 
@@ -51,19 +57,16 @@ We are an international group of believers in a better world who choose to act t
 - We say hello (jambo) to each other and offer a warm smile
 - We treat each other with kindness and do not discriminate
 - We choose love over fear, and we act out of love
+- We collaborate and support each others' missions
 - We respect nature and we leave no trace
 - We consume fresh and healthy food, local when possible
 - We share experiences and stories
 - We do not enter rooms without shoes on
 
-<p>This list is incomplete and a work in progress. :)</p>
+<p>This list is incomplete. Let's finalize it together! :)</p>
 
 |||
 
-![Mbweni](img/mbweniprotection4.jpg#large)
-
-<br>
-
-![Mbweni](img/mbweniprotection1.jpeg#large)
+![Manifesto](img/manifesto.png#medium)
 
 {% end %}
