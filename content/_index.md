@@ -1,5 +1,5 @@
 ---
-title: "OW Nomads"
+title: "OurWorld Zanzibar"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -7,5 +7,5 @@ draft: false
 sort_by: weight
 weight: 1
 extra:
-    logo_path: images/logo_placeholder.png
+    logo_path: images/logo_placeholder_owp.png
 ---

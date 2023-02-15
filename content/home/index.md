@@ -11,11 +11,13 @@ weight: 1
 
 {% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %}
 
- ## Welcome to OurParadise
+ ## OurParadise: Zanzibar
  
- ### Jungle Paradise Beach Resort & Spa @ Mbweni Ruins, Zanzibar
+ ### A Co-Living Community for Change-Makers & Digital Nomads
 
- On the west coast of Zanzibar, just ten minutes from Stone Town and the international airport, sits a beautiful and historical destination point for eco-tourism, and a community space for like-minded people to gather.
+ On the west coast of Zanzibar sits a beautiful and historical short and long-term community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather and build our future together.
+
+  <button>[Support the Project](/visit)</button>
 
  <br>
  <br>
@@ -29,6 +31,8 @@ weight: 1
 ## Karibu Zanzibar
 
 ### Karibu means **"Welcome (to)"** in Swahili
+
+Discover authentic paradise, just ten minutes from Stone Town, a World Heritage Site, as well as the international airport.
 
 {% end %}
 
