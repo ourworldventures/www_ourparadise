@@ -45,7 +45,7 @@ For short term stays. A beachfront hotel that sits beside historical ruins, all 
 
 |||
 
-![Chumbe Island](img/chumbe.jpeg)
+![Seaview Apartments](img/seaview.png)
 
 #### **Seaview Apartments**
 
@@ -57,7 +57,7 @@ For short and long-term stays. Two apartment buildings, with four three-bedroom 
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Mbweni Ruins](img/ouroffice.png)
+![OurOffice](img/ouroffice.png)
 
 #### **OurOffice**
 

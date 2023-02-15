@@ -14,32 +14,16 @@ weight: 3
 
 ### World-leading Ecotourism Destination
 
-<br>
-
 Chumbe Island in the Zanzibar archipelago has been a private nature reserve for more than 25 years, protecting a diverse array of life on land and amid its surrounding coral reef sanctuary.
 
-{% end %}
+Trips to Chumbe Island leave from our property each day.
 
-{% row(style="center narrow") %}
-
-### More About Chumbe Island
-
-{% end %}
-
-<!-- section 0 (JP) -->
-
-{% row(bgColor="#FFFFFF" margin="moderate" padding="none" id="fflow_grid") %}
-
-
-![](img/chumbe10.jpeg)
-
-|||
-
-![](img/chumbe15.jpeg)
-
-|||
-
-![](img/chumbe5.jpeg)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 {% end %}
 
@@ -96,11 +80,5 @@ Water and energy on Chumbe are self-sustaining and provided by nature - the roof
 <p>
 All profits from tourism on Chumbe Island are reinvested into the conservation and education programs operating in the Park, and the island is staffed and managed by local Zanzibaris from the fishing community, with voluntary support from overseas experts.
 </p>
-
-{% end %}
-
-{% row(style="center narrow") %}
-
-<button>[See More Locations](/locations)</button>
 
 {% end %}
