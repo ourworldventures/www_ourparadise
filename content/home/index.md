@@ -17,7 +17,7 @@ weight: 1
 
  On the west coast of Zanzibar sits a beautiful and historical short and long-term community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather and build our future together.
 
-  <button>[Support the Project](/visit)</button>
+  <button>[Support the Project](/action)</button>
 
  <br>
  <br>
@@ -32,7 +32,7 @@ weight: 1
 
 ### Karibu means **"Welcome (to)"** in Swahili
 
-Discover authentic paradise, just ten minutes from Stone Town, a World Heritage Site, as well as the international airport.
+Discover authentic paradise. Just ten minutes from Stone Town, a World Heritage Site, as well as the international airport.
 
 {% end %}
 
@@ -42,7 +42,7 @@ Discover authentic paradise, just ten minutes from Stone Town, a World Heritage 
 
 #### **Jungle Paradise** @ Mbweni Ruins
 
-A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants.
+For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants.
 
  <button>[Info](/location/mbweni)</button>
 
@@ -50,9 +50,31 @@ A beachfront hotel that sits beside historical ruins, all surrounded by beautifu
 
 ![Chumbe Island](img/chumbe.jpeg)
 
-#### **Chumbe Island**
+#### **Seaview Apartments**
 
-An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Day trips leave to Chumbe every day from our property.
+For short and long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
+
+<button>[Info](/location/chumbe)</button>
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+![Mbweni Ruins](img/ouroffice.png)
+
+#### **OurOffice**
+
+A three-floor office space for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
+
+ <button>[Info](/location/mbweni)</button>
+
+|||
+
+![Chumbe Island](img/chumbe.jpeg)
+
+#### **Chumbe Island** (Friends of the Project)
+
+An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Day trips leave to Chumbe each day from our property.
 
 <button>[Info](/location/chumbe)</button>
 
@@ -78,7 +100,7 @@ Experience an authentic paradise through relaxation, swimming, and garden explor
 
 ### Crafts
 
-Q1 2023 | Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibari practices.
+Coming 2023 | Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibari practices.
 
 |||
 
@@ -86,6 +108,6 @@ Q1 2023 | Learn from locals how to produce crafts, from ceramics to clothing and
 
 ### On the Water
 
-Q1 2023 | Take a trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped Turkish Gulet, and the other, a simple and fun catamaran.
+Coming 2023 | Take a trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped Turkish Gulet, and the other, a simple and fun catamaran.
 
 {% end %}

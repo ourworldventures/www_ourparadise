@@ -12,9 +12,9 @@ weight: 3
 
 ## Our Location
 
-### Discover Authentic Paradise in East Africa 
+### Discover Authentic Paradise in East Africa
 
-Jungle Paradise is located on the west coast of Zanzibar, sitting beside historic ruins, lush botanical gardens, and a mangrove forest. Nearby, the world-renowned Chumbe island awaits.
+You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-lined beaches, historic ruins, and lush botanical gardens. Nearby, the world-renowned Chumbe island awaits.
 
  <br>
  <br>

@@ -15,7 +15,7 @@ weight: 4
 
 ### A Regenerative Planet and People First Approach
 
-By creating our own paradise we have a responsibility to the planet. Most of these programs have not yet kicked off, but will begin in 2023.
+By creating our own paradise we have a responsibility to the planet. Most of these programs have not yet kicked off, but are intended to kick off in 2023.
 
 <br>
 <br>
