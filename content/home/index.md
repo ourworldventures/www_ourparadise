@@ -51,7 +51,7 @@ For short term stays. A beachfront hotel that sits beside historical ruins, all 
 
 For short and long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
 
- <button>[Info: Coming Soon](/)</button>
+ <button>[Info: Coming Soon]()</button>
 
 {% end %}
 
@@ -63,7 +63,7 @@ For short and long-term stays. Two apartment buildings, with four three-bedroom 
 
 A three-floor office space for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
 
- <button>[Info: Coming Soon](/)</button>
+ <button>[Info: Coming Soon]()</button>
 
 |||
 
