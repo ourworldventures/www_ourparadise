@@ -29,7 +29,7 @@ weight: 1
 
 ### Karibu means **"Welcome (to)"** in Swahili
 
-Discover authentic paradise. Just ten minutes from Stone Town, a World Heritage Site, as well as the international airport.
+Discover authentic paradise. Just ten minutes from world heritage site Stone Town, as well as the international airport.
 
 {% end %}
 

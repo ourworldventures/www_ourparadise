@@ -28,7 +28,7 @@ We are fortunate enough to have found this special place and crazy enough to tur
 
 {% row(bgColor="#F2F2F2" margin="moderate" padding="both" id="ruins") %}
 
-![Ruins](img/mbweniruins3.jpeg#large)
+![Who We Are](img/who_we_are.png#large)
 
 |||
 
@@ -44,7 +44,7 @@ Primarily we are focused on building out **[a decentralized Internet](https://th
 
 <p>Africa is a continent which has been exploited for centuries, robbed of its culture and its resources. We came to Zanzibar and Tanzania to bring our technology here, to help reverse the story of this country and the wider continent.</p>
 
-<p>We believe that collaboration is the key to a better future. So, together we are creating a safe space for us all, while protecting our mother earth.</p>
+<p>We believe that collaboration is the key to a better future. So, together we are creating our own little paradise, a safe space for like-minded people, while supporting the local community and protecting our mother earth.</p>
 
 {% end %}
 
