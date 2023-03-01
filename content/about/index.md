@@ -38,7 +38,7 @@ We are fortunate enough to have found this special place and crazy enough to tur
 
 <p>
 
-Primarily we are focused on building out **[a decentralized Internet](https://threefold.io)** owned by the people – a safe, fair, and equal Internet offering private and secure digital tools and experiences. It is a big journey, and a journey we are deeply devoted to.
+Primarily we are focused on building **[a decentralized Internet](https://threefold.io) (ThreeFold)** owned by the people – a safe, fair, and equal Internet offering private and secure digital tools and experiences. It is a big journey, and a journey we are deeply devoted to.
 
 </p>
 
@@ -48,7 +48,7 @@ Primarily we are focused on building out **[a decentralized Internet](https://th
 
 </p>
 
-<p>Africa is a continent which has been exploited for centuries, robbed of its culture and its resources. We came to Zanzibar and Tanzania to bring our technology here, to help reverse the story of this country and the wider continent.</p>
+<p>Africa is a continent which has been exploited for centuries, robbed of its culture and its resources. We came to Zanzibar and Tanzania to bring our technology here, to help do what we can to reverse the story of this country and the wider continent.</p>
 
 <p>We believe that collaboration is the key to a better future. So, together we are creating our own little paradise, a safe space for like-minded people, while supporting the local community and protecting our mother earth.</p>
 
@@ -94,7 +94,7 @@ Primarily we are focused on building out **[a decentralized Internet](https://th
 
 <p>OurParadise is a home for all of us. A laid-back no frills environment that allows us to slow down, get back in touch with mother nature, and with ourselves. OurParadise is a raw and safe space for collaboration and co-creation, for imagination and celebration.</p>
 
-- We say hello (jambo) to each other and offer a warm smile
+- We say hello to each other and offer a warm smile
 - We treat each other with kindness and do not discriminate
 - We choose love over fear, and we act out of love
 - We collaborate and support each others' missions

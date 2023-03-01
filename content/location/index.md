@@ -42,6 +42,7 @@ You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-
 A beachfront hotel that sits beside historical ruins and lush botanical gardens.
 
 <button>[Read More](/location/mbweni)</button>
+<button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
 
 {% end %}
 
@@ -51,7 +52,7 @@ A beachfront hotel that sits beside historical ruins and lush botanical gardens.
 
 # Chumbe Island
 
-Friends of OurParadise. An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries.
+Friends of the Project. An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries.
 
 <button>[Read More](/location/chumbe)</button>
 

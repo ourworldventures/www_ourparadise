@@ -17,7 +17,7 @@ weight: 1
 
  On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
 
-  <button>[Dive Deeper](/location)</button>
+  <button>[Dive Deeper](/about)</button>
   <button>[Support the Project](/action)</button>
 
 {% end %}
@@ -43,17 +43,17 @@ Discover authentic paradise. Just ten minutes from world heritage site Stone Tow
 For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants.
 
  <button>[Info](/location/mbweni)</button>
-  <button>[Stay](/location/mbweni)</button>
+ <button>[Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
 
 |||
 
-![Seaview Apartments](img/seaview.png)
+![Seaview Apartments](img/seaview_apts.png)
 
 #### **Seaview Apartments**
 
-For short and long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
+For long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
 
- <button>[Info]()</button>
+ <button>[Info: Coming Soon]()</button>
  <button>[Stay: Coming Soon]()</button>
 
 {% end %}
@@ -64,7 +64,7 @@ For short and long-term stays. Two apartment buildings, with four three-bedroom 
 
 #### **OurOffice**
 
-A three-floor office space for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
+A three-floor office space perfect for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
 
  <button>[Info: Coming Soon]()</button>
 
@@ -77,37 +77,5 @@ A three-floor office space for co-working and collaboration. Conveniently locate
 An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Day trips leave to Chumbe each day from our property.
 
 <button>[Info](/location/chumbe)</button>
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## Activities
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-![General Activities](img/beach_activities_2.jpg#mx-auto#large)
-
-### Experience
-
-Experience an authentic paradise through relaxation, swimming, and garden explorations. Escape into a place where time slows down. Here, you are family.
-
-|||
-
-![Crafts](img/local_culture.jpg#mx-auto#large)
-
-### Crafts
-
-Coming 2023 | Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibari practices.
-
-|||
-
-![Crafts](img/boats.jpg#mx-auto#large)
-
-### On the Water
-
-Coming 2023 | Take a trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped Turkish Gulet, and the other, a simple and fun catamaran.
 
 {% end %}

@@ -16,6 +16,8 @@ weight: 3
 
 Enjoy the Jungle Paradise Beach Resort & Spa, situated alongside historic ruins and lush botanical gardens.
 
+<button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
+
 <br>
 <br>
 <br>
@@ -42,6 +44,8 @@ Enjoy the Jungle Paradise Beach Resort & Spa, situated alongside historic ruins 
 <p>
 Jungle Paradise is your ideal choice if you want to see and enjoy a unique place in Zanzibar Urban West while staying outside of Zanzibar City. It is well-known for the historical Mbweni ruins located on the property, which served as a key location in the abolition of slavery in Zanzibar in the 1870s. Jungle Paradise is surrounded by a beautiful botanical garden which supports well over 100 different types of endemic plants and trees.
 </p>
+
+<button>[Protecting the Ruins and Gardens](/protection)</button>
 
 {% end %}
 
@@ -78,5 +82,7 @@ Jungle Paradise features 13 cozy, air-conditioned, beachfront suites. Each room 
 <p>
 You will enjoy a tasty ane healthy menu at the beach-front restaurant while listening to calm chill out vibes and watching one of the best sunsets on this side of the island. You will find us seven minutes from the airport and twelve minutes from Stone Town.
 </p>
+
+<button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
 
 {% end %}
