@@ -51,7 +51,7 @@ A beachfront hotel that sits beside historical ruins and lush botanical gardens.
 
 # Chumbe Island
 
-An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries.
+Friends of OurParadise. An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries.
 
 <button>[Read More](/location/chumbe)</button>
 

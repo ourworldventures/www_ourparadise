@@ -9,14 +9,15 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %} 
 
  ## OurParadise: Zanzibar
  
  ### A Co-Living Community for Change-Makers & Digital Nomads
 
- On the west coast of Zanzibar sits a beautiful and historical short and long-term community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather and build our future together.
+ On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
 
+  <button>[Dive Deeper](/location)</button>
   <button>[Support the Project](/action)</button>
 
 {% end %}
@@ -27,7 +28,7 @@ weight: 1
 
 ## Karibu Zanzibar
 
-### Karibu means **"Welcome (to)"** in Swahili
+### "Karibu" means **"Welcome (to)"** in Swahili
 
 Discover authentic paradise. Just ten minutes from world heritage site Stone Town, as well as the international airport.
 
@@ -42,6 +43,7 @@ Discover authentic paradise. Just ten minutes from world heritage site Stone Tow
 For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants.
 
  <button>[Info](/location/mbweni)</button>
+  <button>[Stay](/location/mbweni)</button>
 
 |||
 
@@ -51,7 +53,8 @@ For short term stays. A beachfront hotel that sits beside historical ruins, all 
 
 For short and long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
 
- <button>[Info: Coming Soon]()</button>
+ <button>[Info]()</button>
+ <button>[Stay: Coming Soon]()</button>
 
 {% end %}
 

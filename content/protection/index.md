@@ -15,7 +15,9 @@ weight: 4
 
 ### A Regenerative Planet and People First Approach
 
-By creating our own paradise we have a responsibility to the planet. Most of these programs have not yet kicked off, but are intended to kick off in 2023.
+By creating our own paradise we have a responsibility to the planet. Most of these programs have not yet kicked off, but are intended to kick off in 2023 once proper funding has been found.
+
+  <button>[Support the Project](/action)</button>
 
 <br>
 <br>
@@ -34,7 +36,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
 |||
 
-### Mbweni Ruins
+### Mbweni Ruins Restoration
 
 <p>The Historic Ruins of the Mbweni School for freed slaves founded in 1874, with associations with Sir John Kirk, Zanzibar’s first scientific botanist. Kirk (1832 – 1922) was also instrumental in the ending of the East African Slave Trade. He was resident in Zanzibar for 20 years from 1866-1886.</p>
 
@@ -46,7 +48,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="botanical") %}
 
-### Mbweni Botanical Garden & Restoration Project
+### Mbweni Botanical Garden Restoration
 
 <p>The gardens around the Mbweni ruins are beautiful, and they are being revived to become even more majestic. The garden is mature, with a wide variety of fine tree specimens and other interesting plants, including coral rag forest on the cliff and mangroves on the shoreline. Its mature and jungle atmosphere is only found in a few other places in Zanzibar and Pemba.</p>
 
@@ -70,7 +72,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
 |||
 
-### Mbweni Mangrove Beach
+### Mbweni Mangrove Beach Restoration
 
 ​<p>​5,200 Seedlings of Mangroves Replanted at Mbweni.</p>
 
@@ -86,7 +88,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="Invest") %}
 
-### Chumbe Island
+### Chumbe Island Preservation
 
 <p>
 With OurParadise, we are initiating a series of conservation projects to preserve the marine and natural surroundings of Chumbe Island.

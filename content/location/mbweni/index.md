@@ -12,7 +12,7 @@ weight: 3
 
 ## Jungle Paradise @ Mbweni Ruins
 
-### Unique Hotel & Resort Welcomes You Home
+### Peaceful Beachside Hotel & Resort
 
 Enjoy the Jungle Paradise Beach Resort & Spa, situated alongside historic ruins and lush botanical gardens.
 
