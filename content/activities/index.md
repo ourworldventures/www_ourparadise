@@ -17,7 +17,7 @@ No worries. Take it easy. Slowly, slowly, or "Pole, pole," as they say on the is
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 ![relax](img/relax.png#mx-auto#large)
 
@@ -47,7 +47,7 @@ The historic ruins of the Mbweni School for Freed Slaves, founded in the 1870s, 
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ![boats](img/boats.png#mx-auto#large)
 
