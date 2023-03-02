@@ -1,4 +1,4 @@
-name: ourparadise.ourworld.tf
+name: zanzibar.ourworld.tf
 on:
   push:
     branch: [main]
@@ -8,15 +8,15 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: pushing latest change on ourparadise.ourworld.tf
+      - name: pushing latest change on zanzibar.ourworld.tf
         uses: appleboy/ssh-action@master
         with:
-          host: ourparadise.ourworld.tf
+          host: zanzibar.ourworld.tf
           username: webuser
           key: ${{ secrets.TF_SECRET }}
           port: 34022
           script: |
-            cd websites/www_ourparadise/
+            cd websites/www_ourparadise_new/
             git log -1
             git restore .
             git pull
