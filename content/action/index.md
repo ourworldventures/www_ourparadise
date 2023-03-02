@@ -16,6 +16,11 @@ weight: 6
 Today we are already operating from this location and making initial steps. Our primary focus is on raising $4M USD by June 2023 in order to take on full ownership and finance the project. We cannot do this without the support of believers.
 
  <button>[The Opportunity]()</button>
- <button>[Get In Touch]()</button>
+ <button>[Get In Touch](https://docs.google.com/forms/d/e/1FAIpQLSe33Kz4pi3qnNtv115cgSnKCYHZTxZxtPoZKXbaBcWgNbd2qw/viewform)</button>
+
+ <br>
+ <br>
+ <br>
+ <br>
 
 {% end %}

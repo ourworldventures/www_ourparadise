@@ -7,13 +7,20 @@ draft: false
 weight: 4
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/activities_header.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/activities_header_2.png" bgStyle="full") %} 
 
  ## Experience Authentic Paradise
  
  ### By Land, By Sea, Always "Hakuna Matata"
 
 No worries. Take it easy. Slowly, slowly, or "Pole, pole," as they say on the island. We have plenty of activities and experiences for eco-conscious and nature-loving travelers.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 {% end %}
 
@@ -59,7 +66,7 @@ Take a relaxing day trip to a sand bank or a nearby island on one of our two sai
 
 |||
 
-![spa](img/boats.jpg#mx-auto#large)
+![spa](img/spa.jpg#mx-auto#large)
 
 ### Spa
 
@@ -89,18 +96,12 @@ Swim or kayak around the mangroves during high tide. During low tide you can eve
 
 |||
 
-![nutrify](img/boats.jpg#mx-auto#large)
-
-### Nutrify
-
-Dine at our outdoors restaurant looking over the beach and the water. We're currently working on updated menus featuring local and healthy ingredients.
-
-|||
-
 ![crafts](img/crafts.jpeg#mx-auto#large)
 
 ### Local Crafts
 
 Coming 2023 | Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibari practices.
+
+|||
 
 {% end %}

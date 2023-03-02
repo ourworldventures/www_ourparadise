@@ -18,7 +18,7 @@ weight: 1
  On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
 
   <button>[Dive Deeper](/about)</button>
-  <button>[Support the Project](/action)</button>
+  <button>[Where We Are](/location)</button>
 
 {% end %}
 
