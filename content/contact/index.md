@@ -17,7 +17,7 @@ Calling dreamers and doers. There are many ways to join in on the efforts to bri
 
 Please note **we are now primarily focused on raising $3M in order to fully acquire Mbweni Ruins and Jungle Paradise**. Today we are already operating from this location.
 
-<BUTTON><a href="mailto: info@threefold.io">Send us an Email</a></BUTTON>
+<BUTTON><a href="mailto:info@threefold.io">Send us an Email</a></BUTTON>
 
 
 {% end %}
