@@ -10,13 +10,14 @@ weight: 3
 
 {% row(style="center narrow" margin="header" bgPath="img/jungle1.png" bgStyle="full") %}
 
-## Jungle Paradise @ Mbweni Ruins
+## Jungle Paradise
 
 ### Peaceful Beachside Hotel & Resort
 
 Enjoy the Jungle Paradise Beach Resort & Spa, situated alongside historic ruins and lush botanical gardens.
 
 <button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
+<button>[Book the Spa]()</button>
 
 <br>
 <br>

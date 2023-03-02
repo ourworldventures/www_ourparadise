@@ -11,71 +11,52 @@ weight: 1
 
 {% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %} 
 
- ## OurParadise: Zanzibar
+## Welcome to OurParadise
  
- ### A Co-Living Community for Change-Makers & Digital Nomads
+### A Co-Living Community for Change-Makers & Digital Nomads
 
- On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
+On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
 
-  <button>[Dive Deeper](/about)</button>
-  <button>[Where We Are](/location)</button>
-
-{% end %}
-
-<!-- section 2  -->
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## Karibu Zanzibar
-
-### "Karibu" means **"Welcome (to)"** in Swahili
-
-Discover authentic paradise. Just ten minutes from world heritage site Stone Town, as well as the international airport.
+*Psst ... Use the chat on the bottom-right of your screen to talk to a human. We're pleased to assist!*
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+<br>
 
-![Mbweni Ruins](img/mbweni.jpeg)
+{% row(style="center narrow" margin="header" bgPath="img/ruins_big.jpg" bgStyle="full") %} 
 
-#### **Jungle Paradise** @ Mbweni Ruins
-
-For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants.
-
- <button>[Info](/location/mbweni)</button>
- <button>[Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
-
-|||
-
-![Seaview Apartments](img/seaview_apts.png)
-
-#### **Seaview Apartments**
-
-For long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
-
- <button>[Info: Coming Soon]()</button>
- <button>[Stay: Coming Soon]()</button>
+## [About](/about)
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+<br>
 
-![OurOffice](img/ouroffice.png)
+{% row(style="center narrow" margin="header" bgPath="img/location_big.jpg" bgStyle="full") %} 
 
-#### **OurOffice**
+## [Location](/location)
 
-A three-floor office space perfect for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
+{% end %}
 
- <button>[Info: Coming Soon]()</button>
+<br>
 
-|||
+{% row(style="center narrow" margin="header" bgPath="img/activities_big.png" bgStyle="full") %} 
 
-![Chumbe Island](img/chumbe.jpeg)
+## [Activities](/activities)
 
-#### **Chumbe Island** (Friends of the Project)
+{% end %}
 
-An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Day trips leave to Chumbe each day from our property.
+<br>
 
-<button>[Info](/location/chumbe)</button>
+{% row(style="center narrow" margin="header" bgPath="img/protection_big.jpg" bgStyle="full") %} 
+
+## [Protection](/protection)
+
+{% end %}
+
+<br>
+
+{% row(style="center narrow" margin="header" bgPath="img/protection_big.jpg" bgStyle="full") %} 
+
+## [Co-Own](/action)
 
 {% end %}

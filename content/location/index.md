@@ -16,6 +16,8 @@ weight: 3
 
 You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-lined beaches, historic ruins, and lush botanical gardens. Nearby, the world-renowned Chumbe island awaits.
 
+ <button>[Learn the History](/history)</button>
+
 <br>
 <br>
 <br>
@@ -25,54 +27,94 @@ You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-
 
 {% end %}
 
-<!-- section 2 (Mbweni) -->
+{% row(style="center" margin="narrow" padding="top") %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+## Karibu Zanzibar
 
-![Mbweni](img/mbwenilocation3.jpeg#large)
+### "Karibu" means **"Welcome (to)"** in Swahili
 
-<br>
+Discover authentic paradise. Just ten minutes from world heritage site Stone Town, as well as the international airport.
 
-![Mbweni](img/mbwenilocation1.jpeg#large)
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+![Jungle](img/mbweni.jpg)
+
+#### **Jungle Paradise**
+
+For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants.
+
+ <button>[Info](/location/mbweni)</button>
+ <button>[Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
 
 |||
 
-# Jungle Paradise at Mbweni Ruins
+![Gardens](img/gardens.jpg)
 
-A beachfront hotel that sits beside historical ruins and lush botanical gardens.
+#### **Botanical Gardens**
 
-<button>[Read More](/location/mbweni)</button>
-<button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
+The Gardens here are beautiful and mature with many fine tree specimens and interesting plants, including more than 100 tree and plant species endemic to the island.
+
+<button>[Programs to Protect](/protect)</button>
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
-# Seaview Apartments
+![Gardens](img/ruins.jpg)
 
-Apartments best for long-term stays for digital nomads, located just next to Jungle Paradise.
+##### **Mbweni Ruins**
 
-<button>[Read More](/location/seaview)</button>
+We share space with historic ruins of a school for freed slaves (1874) with associations to Sir John Kirk – who was instrumental in ending the East African Slave Trade.
+
+<button>[Learn the History](/history)</button>
 
 |||
 
-![seaview](img/seaview_apartments.png#large)
+![Seaview Apartments](img/seaview_apts.png)
+
+#### **Seaview Apartments**
+
+For long-term stays. Two apartment buildings, with four three-bedroom spaces and one rooftop penthouse each. Private beach and direct access to Jungle Paradise.
+
+ <button>[Info: Coming Soon]()</button>
+ <button>[Stay: Coming Soon]()</button>
 
 {% end %}
 
-<!-- section 3 (Chumbe) -->
+{% row(style="center" margin="narrow" padding="none") %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+![OurOffice](img/ouroffice.png)
 
-![chumbe](img/chumbe_location.jpeg#large)
+#### **OurOffice**
+
+A three-floor office space perfect for co-working and collaboration. Conveniently located just next to Jungle Paradise and Seaview Apartments.
+
+ <button>[Info: Coming Soon]()</button>
 
 |||
 
-# Chumbe Island
+![Chumbe Island](img/chumbe.jpeg)
 
-Friends of the Project. An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries.
+#### **Chumbe Island** (Friends of the Project)
 
-<button>[Read More](/location/chumbe)</button>
+An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Day trips leave to Chumbe each day from our property.
+
+<button>[Info](/location/chumbe)</button>
 
 {% end %}
 
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+![OurOffice](img/ayurvedic.jpg)
+
+#### **Healing Center: Coming 2023**
+
+The center will combine advanced regenerative healing practices with ancient and modern wisdom, with a focus on ayurveda.
+
+<button>[Info: Coming Soon]()</button>
+
+|||
+
+{% end %}

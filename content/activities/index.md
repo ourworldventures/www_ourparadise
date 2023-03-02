@@ -34,15 +34,25 @@ Relax on the beach or by the pool. Take in some Vitamin D. Escape into a place w
 
 |||
 
+![indulge](img/indulge.jpg#mx-auto#large)
+
+### Indulge
+
+We're working on new menus featuring local, healthy, and sustainable ingredients, whenever possible. You are what you eat!
+
+|||
+
 ![gardens](img/gardens.png#mx-auto#large)
 
 ### Botanical Gardens
 
-The gardens which flow through the property are home to well over 100 endemic species of plants and trees. Signage and tours coming soon.
+Take a stroll through the gardens which flow through the property, home to hundreds of species of plants and trees. Signage and tours coming.
 
 <button>[Details](/location/mbweni)</button>
 
-|||
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
 
 ![ruins](img/ruins.png#mx-auto#large)
 
@@ -52,41 +62,7 @@ The historic ruins of the Mbweni School for Freed Slaves, founded in the 1870s, 
 
 <button>[Details](/location/mbweni)</button>
 
-{% end %}
-
-{% row(style="center" margin="narrow" padding="none") %}
-
-![boats](img/boats.png#mx-auto#large)
-
-### On the Water
-
-Take a relaxing day trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped Turkish Gulet, and the other, a simple and fun catamaran.
-
-<button>[Book](/)</button>
-
 |||
-
-![spa](img/spa.jpg#mx-auto#large)
-
-### Spa
-
-Our spa, wrapped in the silence of nature and the historic ruins, offers a variety of therapies and treatments with botanical products made in Zanzibar. Open daily 10:00 - 18:00.
-
-<button>[Book](/)</button>
-
-|||
-
-![chumbe](img/chumbe_island.jpeg#mx-auto#large)
-
-### Chumbe Island
-
-Take a trip to an award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Trips leave daily from Jungle Paradise.
-
-<button>[Explore](/location/chumbe)</button>
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
 
 ![mangroves](img/mangroves.png#mx-auto#large)
 
@@ -96,12 +72,38 @@ Swim or kayak around the mangroves during high tide. During low tide you can eve
 
 |||
 
+![boats](img/boats.png#mx-auto#large)
+
+### On the Water
+
+Take a relaxing day trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped Turkish Gulet, and the other, a simple and fun catamaran.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+![chumbe](img/chumbe_island.jpeg#mx-auto#large)
+
+### Chumbe Island
+
+Take a trip to an award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Trips leave daily from Jungle Paradise.
+
+<button>[Explore](/location/chumbe)</button>
+
+|||
+
+![spa](img/spa.jpg#mx-auto#large)
+
+### Spa Experience
+
+Our spa, wrapped in the silence of nature and the historic ruins, offers a variety of therapies and treatments with botanical products made in Zanzibar. Open daily 10:00 - 18:00.
+
+|||
+
 ![crafts](img/crafts.jpeg#mx-auto#large)
 
 ### Local Crafts
 
 Coming 2023 | Learn from locals how to produce crafts, from ceramics to clothing and wood-working. In this way, we can promote and support the conservation of Zanzibari practices.
-
-|||
 
 {% end %}
