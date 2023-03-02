@@ -46,19 +46,33 @@ A beachfront hotel that sits beside historical ruins and lush botanical gardens.
 
 {% end %}
 
+{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+
+# Seaview Apartments
+
+Apartments best for long-term stays for digital nomads, located just next to Jungle Paradise.
+
+<button>[Read More](/location/seaview)</button>
+
+|||
+
+![seaview](img/seaview_apartments.png#large)
+
+{% end %}
+
 <!-- section 3 (Chumbe) -->
 
-{% row(bgColor="#F2F2F2" margin="moderate" padding="top" id="fflow_grid") %}
+{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+
+![chumbe](img/chumbe_location.jpeg#large)
+
+|||
 
 # Chumbe Island
 
 Friends of the Project. An award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries.
 
 <button>[Read More](/location/chumbe)</button>
-
-|||
-
-![chumbe](img/chumbe_location.jpeg#large)
 
 {% end %}
 
