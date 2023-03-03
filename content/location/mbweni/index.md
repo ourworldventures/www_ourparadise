@@ -17,7 +17,6 @@ weight: 3
 Enjoy the Jungle Paradise Beach Resort & Spa, situated alongside historic ruins and lush botanical gardens.
 
 <a href=https://hotels.cloudbeds.com/reservation/DNw5Ek target=“_blank”> <button> Book Your Stay </button> </a>
-<button>[Book the Spa]()</button>
 
 <br>
 <br>

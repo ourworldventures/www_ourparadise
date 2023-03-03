@@ -39,7 +39,7 @@ We are introducing a token called EDEN. EDEN Tokens are not crypto currencies, t
 
 {% end %}
 
-{% row(bgColor="#F2F2F2" margin="moderate" padding="both" id="fflow_grid") %}
+{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="fflow_grid") %}
 
 # Not For Profit
 
