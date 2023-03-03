@@ -127,7 +127,7 @@ The center will combine advanced regenerative healing practices with ancient and
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="fflow_grid") %}
+{% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="fflow_grid") %}
 
 ![map](img/map.png)
 
@@ -141,5 +141,31 @@ The center will combine advanced regenerative healing practices with ancient and
 - Approximately one hour twenty minutes to Nungwi (north)
 
 If you need transportation to a different part of the island, simply let us know and we will take care of it for you!
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+## Next Up
+
+### Planned Locations
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+![Regenerative Farm](img/regenerative_farm.jpg)
+
+#### **Regenerative Farms**
+
+Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farming and food safety.
+
+|||
+
+![](img/ecobeach.png)
+
+#### **Eco Beach Villas**
+
+10 planned villas on the Zanzibar coast with stylish organic design, for eco-conscious visitors.
 
 {% end %}

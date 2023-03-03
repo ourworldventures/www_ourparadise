@@ -56,7 +56,31 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="botanical") %}
+{% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="botanical") %}
+
+### Our Why
+
+<br>
+
+<p>Planet-First. People-First. Authenticity. These values are engrained into all that we do.</p>
+
+<p>Mother Earth is our home and we must protect her. Beyond that, we believe in people and the power of community and we aim to support and empower the people around us. A healthy community starts with authenticity and the opportunity to be our authentic selves.</p>
+
+<p>We want people to experience peaceful free time with detail for art, nature, silence, food, and healing. We want to show people the beauty of our world – which is a real paradise – and help them find themselves again in this hectic world. We want to preserve unique locations and create awareness on why this is so important.</p>
+
+<p>And finally we aim to educate around planet regeneration and sustainability, awareness improvement, sovereignty, and more.</p>
+
+|||
+
+![Our Why](img/our_why.png#large)
+
+{% end %}
+
+{% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="botanical") %}
+
+![Purpose](img/purpose.jpg#medium)
+
+|||
 
 ### Our Purpose
 
@@ -78,17 +102,9 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 <p>All what we do always in line with our values of planet & people first and authenticity.</p>
 
-|||
-
-![Purpose](img/purpose.jpg#medium)
-
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="ruins") %}
-
-![Manifesto](img/manifesto.png#medium)
-
-|||
+{% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="ruins") %}
 
 ### Our Manifesto
 
@@ -106,5 +122,9 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 <p>This list is evolving. Let us know what else you'd like to see.</p>
 
 <button>[Support the Project](/action)</button>
+
+|||
+
+![Manifesto](img/manifesto.png#medium)
 
 {% end %}
