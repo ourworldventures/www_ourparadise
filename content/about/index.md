@@ -15,7 +15,7 @@ weight: 2
 
 ### Dreamers and Doers
 
-We are fortunate enough to have found this special place and crazy enough to turn our dreams into reality. Together we can show people the beauty of our world and help them find themselves in these hectic times.
+We are fortunate enough to have found this special place and bold enough to turn our dreams into reality. Together we can show people the beauty of our world and help them find themselves in these hectic times.
 
 <br>
 <br>
@@ -71,7 +71,7 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 #### **Coming 2023**
 
-- Natural (Ayurvedic) Healing Center
+- Natural (Ayurvedic) Advanced Healing Center
 - Co-Working / Co-Creation Space with integrated art, music, dance, yoga, and more
 - Artistic & Health Retail Space (local products, rare minerals, healing products, craftsmanship, art)
 - Seminar Space

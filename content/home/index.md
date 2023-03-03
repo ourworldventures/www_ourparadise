@@ -17,7 +17,7 @@ weight: 1
 
 On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
 
-*Psst ... Use the chat on the bottom-right of your screen to talk to a human. We're pleased to assist!*
+*We invite you to use the chat on the bottom-right of your screen to talk to a human. We're pleased to assist!*
 
 {% end %}
 
@@ -27,6 +27,8 @@ On the west coast of Zanzibar sits a beautiful and historical community space fo
 
 ## [About](/about)
 
+Learn more about our project and who we are.
+
 {% end %}
 
 <br>
@@ -34,6 +36,8 @@ On the west coast of Zanzibar sits a beautiful and historical community space fo
 {% row(style="center narrow" margin="header" bgPath="img/location_big.jpg" bgStyle="full") %} 
 
 ## [Location](/location)
+
+Get to know where we are and its history.
 
 {% end %}
 
@@ -43,6 +47,8 @@ On the west coast of Zanzibar sits a beautiful and historical community space fo
 
 ## [Activities](/activities)
 
+Find out what paradise has to offer.
+
 {% end %}
 
 <br>
@@ -51,12 +57,16 @@ On the west coast of Zanzibar sits a beautiful and historical community space fo
 
 ## [Protection](/protection)
 
+Discover how we aim to preserve this place.
+
 {% end %}
 
 <br>
 
-{% row(style="center narrow" margin="header" bgPath="img/protection_big.jpg" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/coown_big.png" bgStyle="full") %} 
 
 ## [Co-Own](/action)
+
+Become a co-owner of OurParadise.
 
 {% end %}
