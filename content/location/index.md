@@ -14,7 +14,7 @@ weight: 3
 
 ### Discover Authentic Paradise in East Africa
 
-You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-lined beaches, historic ruins, and lush botanical gardens. Nearby, the world-renowned Chumbe island awaits.
+You can find us on the west coast of Zanzibar, alongside 150 meters of mangrove-lined beaches, historic ruins, and lush botanical gardens. Nearby, the world-renowned Chumbe island awaits.
 
  <button>[Learn the History](/location/history)</button>
 
@@ -33,7 +33,7 @@ You can find us on the west coast of Zanzibar, alongside 250 meters of mangrove-
 
 ### "Karibu" means **"Welcome (to)"** in Swahili
 
-Discover authentic paradise. Roughly ten minutes from world heritage site Stone Town, as well as the international airport.
+Discover authentic paradise. Roughly ten minutes from world heritage site Stone Town, as well as the Abeid Amani Karume International Airport. *Scroll down to find us on the map.*
 
 {% end %}
 
@@ -77,7 +77,7 @@ We share space with historic ruins of a school for freed slaves (1874) with asso
 
 #### **Botanical Gardens**
 
-The Gardens here are beautiful and mature with many fine tree specimens and interesting plants, including more than 100 tree and plant species endemic to the island.
+The Gardens here are beautiful and mature, with more than 280 tree and plant species, many of which are very old and even endemic to the island.
 
 <button>[Programs to Protect](/protect)</button>
 

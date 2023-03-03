@@ -72,7 +72,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
 |||
 
-### Mbweni Mangrove Beach Restoration
+### Mangrove Beach Restoration
 
 ​<p>​5,200 Seedlings of Mangroves Replanted at Mbweni.</p>
 

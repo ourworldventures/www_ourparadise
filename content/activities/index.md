@@ -48,8 +48,6 @@ We're working on new menus featuring local, healthy, and sustainable ingredients
 
 Take a stroll through the gardens which flow through the property, home to hundreds of species of plants and trees. Signage and tours coming.
 
-<button>[Details](/location/mbweni)</button>
-
 {% end %}
 
 {% row(style="center" margin="narrow" padding="none") %}
@@ -59,8 +57,6 @@ Take a stroll through the gardens which flow through the property, home to hundr
 ### Mbweni Ruins
 
 The historic ruins of the Mbweni School for Freed Slaves, founded in the 1870s, sit on our property. Our aim is to restore and revive these ruins.
-
-<button>[Details](/location/mbweni)</button>
 
 |||
 
@@ -87,8 +83,6 @@ Take a relaxing day trip to a sand bank or a nearby island on one of our two sai
 ### Chumbe Island
 
 Take a trip to an award-winning private nature reserve, home to one of the world's most pristine coral reef sanctuaries. Trips leave daily from Jungle Paradise.
-
-<button>[Explore](/location/chumbe)</button>
 
 |||
 
