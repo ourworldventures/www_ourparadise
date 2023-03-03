@@ -69,7 +69,7 @@ For long-term stays. Two apartment buildings, with four three-bedroom spaces and
 
 We share space with historic ruins of a school for freed slaves (1874) with associations to Sir John Kirk – who was instrumental in ending the East African Slave Trade.
 
-<button>[Learn the History](/history)</button>
+<button>[Learn the History](/location/history)</button>
 
 |||
 

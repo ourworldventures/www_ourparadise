@@ -7,13 +7,13 @@ draft: false
 weight: 6
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/activities_relax.png" bgStyle="full") %} 
 
 ## Take It Easy
  
 ### Activities 
 
-Part of our aim is to help people find themselves in this hectic world. OurParadise is a perfect place to relax and unwind. Spend your day soaking in the sun on our mangrove-lined 150 meter-long beach or by the pool.
+Part of our aim is to help people find themselves in this hectic world. OurParadise is a perfect place to relax and unwind. Spend your day soaking in the sun on our mangrove-lined 150 meter-long beach or by the pool. Wind down with a perfect view of sunset from our restaurant or bar.
 
 <button>[<<< Local Crafts](/activities/crafts)</button>
 <button>[Indulge >>>](/activities/indulge)</button>

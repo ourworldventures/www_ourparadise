@@ -11,7 +11,7 @@ weight: 3
 
 ## Take a Look Back
 
-### A History Tied to Freedom
+### A Story Tied to Freedom
 
 With roots back to the abolition of slavery in the region, the land on which we stand is very special. We are proud to have the opportunity to call this place home.
 

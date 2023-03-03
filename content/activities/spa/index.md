@@ -7,7 +7,7 @@ draft: false
 weight: 6
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/activities_spa.jpeg" bgStyle="full") %} 
 
 ## Spa Experience
  
