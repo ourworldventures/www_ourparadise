@@ -16,7 +16,7 @@ weight: 3
 
 Enjoy the Jungle Paradise Beach Resort & Spa, situated alongside historic ruins and lush botanical gardens.
 
-<button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
+<a href=https://hotels.cloudbeds.com/reservation/DNw5Ek target=“_blank”> <button> Book Your Stay </button> </a>
 <button>[Book the Spa]()</button>
 
 <br>
@@ -84,6 +84,6 @@ Jungle Paradise features 13 cozy, air-conditioned, beachfront suites. Each room 
 You will enjoy a tasty ane healthy menu at the beach-front restaurant while listening to calm chill out vibes and watching one of the best sunsets on this side of the island. You will find us seven minutes from the airport and twelve minutes from Stone Town.
 </p>
 
-<button>[Book Your Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
+<a href=https://hotels.cloudbeds.com/reservation/DNw5Ek target=“_blank”> <button> Book Your Stay </button> </a>
 
 {% end %}

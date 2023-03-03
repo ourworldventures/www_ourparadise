@@ -38,7 +38,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 
 ### Mbweni Ruins Restoration
 
-<p>The Historic Ruins of the Mbweni School for freed slaves founded in 1874, with associations with Sir John Kirk, Zanzibar’s first scientific botanist. Kirk (1832 – 1922) was also instrumental in the ending of the East African Slave Trade. He was resident in Zanzibar for 20 years from 1866-1886.</p>
+<p>The Historic Ruins of the St Mary’s School for Girls (freed slaves) founded in 1874, have associations with Sir John Kirk. Kirk (1832 – 1922) was instrumental in the ending of the East African Slave Trade and was Zanzibar’s first scientific botanist. He was resident of the island for 20 years from 1866-1886.</p>
 
 <p>Near Mbweni Ruins is St John's Anglican Church, another thought-provoking reminder of the colonial missionary era. The caretaker-guide is a direct descendant of a freed slave who became the UMCA's first African deacon (junior priest).</p>
 

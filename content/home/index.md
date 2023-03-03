@@ -17,7 +17,7 @@ weight: 1
 
 On the west coast of Zanzibar sits a beautiful and historical community space for eco-tourism, co-working, and co-living. A place for like-minded people to gather, share authentic moments, and build our future together.
 
-*We invite you to use the chat on the bottom-right of your screen to talk to a human. We're pleased to assist!*
+*We invite you to use the chat on the bottom-right of your screen to get assistance.*
 
 {% end %}
 
@@ -65,8 +65,8 @@ Discover how we aim to preserve this place.
 
 {% row(style="center narrow" margin="header" bgPath="img/coown_big.png" bgStyle="full") %} 
 
-## [Co-Own](/action)
+## [Action](/action)
 
-Become a co-owner of OurParadise.
+Get involved in turning dream into reality.
 
 {% end %}

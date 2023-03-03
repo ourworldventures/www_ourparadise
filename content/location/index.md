@@ -46,7 +46,7 @@ Discover authentic paradise. Roughly ten minutes from world heritage site Stone 
 For short term stays. A beachfront hotel that sits beside historical ruins, all surrounded by beautiful lush gardens featuring a wide variety of native and exotic plants. 
 
  <button>[Info](/location/mbweni)</button>
- <button>[Stay](https://hotels.cloudbeds.com/reservation/DNw5Ek)</button>
+ <a href=https://hotels.cloudbeds.com/reservation/DNw5Ek target=“_blank”> <button> Stay </button> </a>
 
 |||
 

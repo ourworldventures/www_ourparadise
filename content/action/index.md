@@ -53,14 +53,14 @@ The OurParadise locations will be owned by not-for-profit entities to make sure 
 
 {% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="fflow_grid") %}
 
-![venture creator](img/venture_creator.png#large)
+![venture creator](img/ventures.png#large)
 
 |||
 
 # A Bigger Picture
 
-OurParadise is part of a collection of impact projects focused on planet and people first. We collectively believe that doing business and doing good for the world can go hand in hand.
+OurParadise is part of a much bigger picture focused on planet and people first principles. We collectively believe that doing business and doing good for the world can go hand in hand.
 
-<button>[Other Ventures](https://venturecreator.studio)</button>
+<button>[Dive Deep](https://threefold.docsend.com/view/s/mqxhrmf5kyxj2jwd)</button>
 
 {% end %}
