@@ -72,7 +72,7 @@ Swim or kayak around the mangroves during high tide. During low tide you can eve
 
 ### [On the Water](/activities/boats)
 
-Take a relaxing day trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped Turkish Gulet, and the other, a simple and fun catamaran.
+Take a relaxing day trip to a sand bank or a nearby island on one of our two sailing boats – one, a solar-equipped 60-foot sailboat with four sails, and the other, a simple and fun catamaran.
 
 {% end %}
 

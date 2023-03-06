@@ -89,7 +89,7 @@ The Gardens here are beautiful and mature, with more than 280 tree and plant spe
 
 #### **Boats**
 
-Guests and visitors are invited to book experiences on our two sailing boats – a Turkish Gulet and a catamaran. Take a trip to a nearby island or sand bank.
+Guests and visitors are invited to book experiences on our two sailing boats – a 60-foot wooden sailboat and a 30-foot sailing catamaran. Take a trip to a nearby island or sand bank.
 
 <button>Book an Experience: Soon</button>
 
