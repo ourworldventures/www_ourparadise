@@ -1,8 +1,6 @@
-# OUR PARADISE Website
+# OUR PARADISE Website (Updated)
 
-wesite on https://ourparadise.ourworld.tf/
-
-> More info see [gdoc](https://docs.google.com/document/d/1RuWIVcuhSE5BGF1HkgXqKVOcF31g0CQR-EjhcAAlHoA/edit#)
+website on https://zanzibar.ourworld.tf
 
 ## Developers
 
