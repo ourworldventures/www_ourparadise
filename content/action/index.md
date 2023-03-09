@@ -7,7 +7,7 @@ draft: false
 weight: 6
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/join_header.png" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/action_header.png" bgStyle="full") %}
 
 ## Calling Dreamers & Doers
 

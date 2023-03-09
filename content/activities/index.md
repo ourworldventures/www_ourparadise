@@ -7,7 +7,7 @@ draft: false
 weight: 4
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/activities_header_2.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/activities_header.png" bgStyle="full") %} 
 
  ## Experience Authentic Paradise
  

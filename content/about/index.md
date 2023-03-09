@@ -9,7 +9,7 @@ weight: 2
 
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/opwhy.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/about_header.png" bgStyle="full") %}
 
 ## About Us
 

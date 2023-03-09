@@ -9,7 +9,7 @@ weight: 4
 
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/protectheader.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/protection_header.png" bgStyle="full") %}
 
 ## Programs to Protect
 

@@ -8,7 +8,7 @@ weight: 3
 ---
 <!-- section 1 (Locations) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/luxury.jpeg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/location_header.png" bgStyle="full") %}
 
 ## Our Location
 

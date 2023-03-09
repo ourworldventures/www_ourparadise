@@ -9,7 +9,7 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center narrow" margin="header" bgPath="img/new_home.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/home_header.png" bgStyle="full") %} 
 
 ## Welcome to OurParadise
  
@@ -23,7 +23,7 @@ On the west coast of Zanzibar sits a beautiful and historical community space fo
 
 <br>
 
-{% row(style="center narrow" margin="header" bgPath="img/ruins_big.jpg" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/home_about.png" bgStyle="full") %} 
 
 ## [About](/about)
 
@@ -33,7 +33,7 @@ Learn more about our project and who we are.
 
 <br>
 
-{% row(style="center narrow" margin="header" bgPath="img/location_big.jpg" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/home_location.png" bgStyle="full") %} 
 
 ## [Location](/location)
 
@@ -43,7 +43,7 @@ Get to know where we are and its history.
 
 <br>
 
-{% row(style="center narrow" margin="header" bgPath="img/activities_big.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/home_activities.png" bgStyle="full") %} 
 
 ## [Activities](/activities)
 
@@ -53,7 +53,7 @@ Find out what paradise has to offer.
 
 <br>
 
-{% row(style="center narrow" margin="header" bgPath="img/protection_big.jpg" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/home_protection.png" bgStyle="full") %} 
 
 ## [Protection](/protection)
 
@@ -63,7 +63,7 @@ Discover how we aim to preserve this place.
 
 <br>
 
-{% row(style="center narrow" margin="header" bgPath="img/coown_big.png" bgStyle="full") %} 
+{% row(style="center narrow" margin="header" bgPath="img/home_action.png" bgStyle="full") %} 
 
 ## [Action](/action)
 
