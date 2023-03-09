@@ -79,7 +79,7 @@ We share space with historic ruins of a school for freed slaves (1874) with asso
 
 The Gardens here are beautiful and mature, with more than 280 tree and plant species, many of which are very old and even endemic to the island.
 
-<button>[Programs to Protect](/protect)</button>
+<button>[Programs to Protect](/protection)</button>
 
 {% end %}
 
