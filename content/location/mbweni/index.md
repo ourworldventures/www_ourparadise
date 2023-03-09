@@ -8,7 +8,7 @@ weight: 3
 ---
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/jungle1.png" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/mbweni_header.png" bgStyle="full") %}
 
 ## Jungle Paradise
 

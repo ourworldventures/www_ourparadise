@@ -8,7 +8,7 @@ weight: 3
 ---
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/chumbe2.png" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/chumbe_header.png" bgStyle="full") %}
 
 # Chumbe Island
 

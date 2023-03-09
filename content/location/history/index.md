@@ -7,7 +7,7 @@ draft: false
 weight: 3
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/history_header.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgPath="img/history_header.png" bgStyle="full") %}
 
 ## Take a Look Back
 
