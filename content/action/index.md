@@ -35,7 +35,7 @@ Our primary focus is on **raising $4M USD by June 2023** in order to take on ful
 
 # A Token for Co-Ownership
 
-We are introducing a token called EDEN. EDEN Tokens are not crypto currencies, they are pre-purchase tokens of OurParadise and represent ownership/utilization in the ecosystem. You can always re-sell your EDEN tokens or use them to participate in the OurParadise World.
+We are introducing a token called EDN. EDN Tokens are not crypto currencies, they are pre-purchase tokens of Eden and represent ownership/utilization in the ecosystem. You can always re-sell your EDN tokens or use them to participate in the Eden World.
 
 {% end %}
 
@@ -43,7 +43,7 @@ We are introducing a token called EDEN. EDEN Tokens are not crypto currencies, t
 
 # Not For Profit
 
-The OurParadise locations will be owned by not-for-profit entities to make sure that all stays protected for ever. All assets are owned by non profits but the utilization is 100% for OurParadise for 33-66-99 years (renewable). This allows us to create value for the future of our planet and ourselves.
+The Eden locations will be owned by not-for-profit entities to make sure that all stays protected for ever. All assets are owned by non profits but the utilization is 100% for Eden for 33-66-99 years (renewable). This allows us to create value for the future of our planet and ourselves.
 
 |||
 
@@ -59,7 +59,7 @@ The OurParadise locations will be owned by not-for-profit entities to make sure 
 
 # A Bigger Picture
 
-OurParadise is part of a much bigger picture focused on planet and people first principles. We collectively believe that doing business and doing good for the world can go hand in hand.
+Eden is part of a much bigger picture focused on planet and people first principles. We collectively believe that doing business and doing good for the world can go hand in hand.
 
 <button>[Dive Deep](https://threefold.docsend.com/view/s/mqxhrmf5kyxj2jwd)</button>
 

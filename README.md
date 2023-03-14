@@ -1,4 +1,4 @@
-# OUR PARADISE Website (Updated)
+# EDEN Website (Updated)
 
 website on https://zanzibar.ourworld.tf
 

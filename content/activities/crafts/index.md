@@ -13,7 +13,7 @@ weight: 6
  
 ### Activities
 
-As part of our aim to support local people and preserve Zanzibari culture, we are inviting artists and skilled craftsmen and women from the island to share their knowledge with OurParadise visitors.
+As part of our aim to support local people and preserve Zanzibari culture, we are inviting artists and skilled craftsmen and women from the island to share their knowledge with Eden visitors.
 
 <button>[<<< Spa Exerience](/activities/spa)</button>
 <button>[Take It Easy >>>](/activities/relax)</button>

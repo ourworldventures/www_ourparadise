@@ -2,8 +2,8 @@
 base_url = "https://zanzibar.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "OurParadise"
-description="OurParadise Project, strive to protect."
+title = "Eden"
+description="Eden Project, strive to protect."
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true

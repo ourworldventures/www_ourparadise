@@ -11,7 +11,7 @@ weight: 1
 
 {% row(style="center narrow" margin="header" bgPath="img/home_header.png" bgStyle="full") %} 
 
-## Welcome to OurParadise
+## Welcome to Eden
  
 ### A Co-Living Community for Change-Makers & Digital Nomads
 

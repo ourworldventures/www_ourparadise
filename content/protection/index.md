@@ -91,7 +91,7 @@ By creating our own paradise we have a responsibility to the planet. Most of the
 ### Chumbe Island Preservation
 
 <p>
-With OurParadise, we are initiating a series of conservation projects to preserve the marine and natural surroundings of Chumbe Island.
+With Eden, we are initiating a series of conservation projects to preserve the marine and natural surroundings of Chumbe Island.
 </p>
 
 <p>

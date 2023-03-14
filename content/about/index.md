@@ -84,7 +84,7 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 ### Our Purpose
 
-<p>We aim to provide a space in which people feel at home and can create, live, work, heal, taste, learn, and experience. OurParadise will be a co-owned space in line with nature which will be fully sustainable and organic. The unique environment around us makes it possible – from Chumbe Island to the mangroves, the beach and sea, the ruins, the botanical garden.)</p>
+<p>We aim to provide a space in which people feel at home and can create, live, work, heal, taste, learn, and experience. Eden will be a co-owned space in line with nature which will be fully sustainable and organic. The unique environment around us makes it possible – from Chumbe Island to the mangroves, the beach and sea, the ruins, the botanical garden.)</p>
 
 #### **Now or In-Motion**
 
@@ -108,7 +108,7 @@ Primarily we are focused on building **[a decentralized Internet](https://threef
 
 ### Our Manifesto
 
-<p>OurParadise is a home for all of us. A laid-back no frills environment that allows us to slow down, get back in touch with mother nature, and with ourselves. OurParadise is a raw and safe space for collaboration and co-creation, for imagination and celebration.</p>
+<p>Eden is a home for all of us. A laid-back no frills environment that allows us to slow down, get back in touch with mother nature, and with ourselves. Eden is a raw and safe space for collaboration and co-creation, for imagination and celebration.</p>
 
 - We say hello to each other and offer a warm smile
 - We treat each other with kindness and do not discriminate
