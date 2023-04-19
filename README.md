@@ -1,4 +1,4 @@
-## About
+## OurParadise Website Repository
 
 The official website of OurParadise, powered by Ourworld.
 
