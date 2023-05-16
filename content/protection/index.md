@@ -31,7 +31,7 @@ By creating our own paradise we have a responsibility to the planet.
 
 With OurParadise, we are initiating a series of conservation projects to preserve the marine and natural surroundings of Chumbe Island.
 
-<button>[Read More](/protection/chumbeisland_pro)</button>
+<button>[Read More](/protection/chumbeislandpro)</button>
 
 |||
 
@@ -53,7 +53,7 @@ With OurParadise, we are initiating a series of conservation projects to preserv
 
 Restoration Project for The Historic Ruins of the Mbweni School for freed slaves
 
-<button>[Read More](/protection/mbweniruins_pro)</button>
+<button>[Read More](/protection/mbweniruinspro)</button>
 
 {% end %}
 
@@ -64,7 +64,7 @@ Restoration Project for The Historic Ruins of the Mbweni School for freed slaves
 
 Conservation Project to preserve The gardens around the Mbweni ruins.
 
-<button>[Read More](/protection/mbweniruins_pro)</button>
+<button>[Read More](/protection/mbweniruinspro)</button>
 
 
 |||
