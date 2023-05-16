@@ -11,7 +11,7 @@ weight: 1
 
 {% row(style="center narrow" margin="tight" bgPath="img/home_header.jpg" bgStyle="full") %}
 
-<div class="mx-4 bg-gray-200/50 py-4 px-4 rounded-md">
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
  ## Welcome to OurParadise
  

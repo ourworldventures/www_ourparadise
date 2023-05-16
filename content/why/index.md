@@ -11,7 +11,7 @@ weight: 2
 
 {% row(style="center narrow" margin="tight" bgPath="img/opwhy.jpg" bgStyle="full") %}
 
-<div class="bg-gray-200/50 py-4 px-4 mx-4 rounded-md">
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Our Why
 
