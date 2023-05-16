@@ -67,5 +67,5 @@ paginate_by = 2
 paginate_path = "blog-posts"
 
 [extra]
-header_class = "freeflow"
-footer_class = "freeflow"
+header_class = "customize"
+footer_class = "customize"

@@ -173,29 +173,31 @@ font-weight: 500;
     white-space: normal;
 }
 
-header .freeflow {
-    background-color: transparent;
-    position: absolute;
+header .customize {
+  background-color: transparent;
+  position: absolute;
 }
 
-footer .freeflow {
-    width: 100vw;
-    background-color: #FFFFFF;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 40px;
+footer .customize {
+  /* width: 100vw; */
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  
 }
 
-footer .freeflow img {
-    width: 125px;
+footer .customize img {
+  width: 125px;
 }
 
 
-header .freeflow div {
-    box-shadow: none;
-    text-transform: uppercase;
-    font-weight: 700 !important;
+header .customize div {
+  box-shadow: none;
+  text-transform: capitalize;
+  font-weight: 700 !important;
 }
 
 button {
@@ -355,6 +357,12 @@ header {
 .header:hover .back {
   transform: none;
 }
+
+a:hover {
+color: #636363;
+
+}
+
 @media (max-width: 768px) {
   /* h2 {
     font-size: 3rem;
