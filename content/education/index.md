@@ -7,7 +7,9 @@ draft: false
 weight: 5
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/educationheader.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/educationheader.jpg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Education Initiatives
 
@@ -18,5 +20,6 @@ weight: 5
 
 <button>[Contact Us](/contact)</button>
 
+</div>
 
 {% end %}

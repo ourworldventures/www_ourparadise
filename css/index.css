@@ -85,7 +85,7 @@ img[src*="#fig"] {
 
 @layer components {
   h1 {
-    @apply text-3xl lg:text-5xl xl:text-7xl font-bold leading-none my-4;
+    @apply text-3xl lg:text-4xl font-bold leading-none my-4;
     font-family: "lato", sans-serif;
     line-height: 0.9;
     
@@ -94,7 +94,7 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h2 {
-    @apply text-3xl md:text-4xl lg:text-5xl xl:text-7xl font-bold leading-none my-4;
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold leading-none my-4;
     font-family: "lato", sans-serif;
     line-height: 0.9;
     
@@ -136,7 +136,7 @@ img[src*="#fig"] {
     lg:text-lg
     px-8
     py-1
-    mr-5
+    lg:mr-5
     my-4
     border-2
     shadow
@@ -188,7 +188,7 @@ footer .freeflow {
 }
 
 footer .freeflow img {
-    width: 60px;
+    width: 125px;
 }
 
 
@@ -356,9 +356,9 @@ header {
   transform: none;
 }
 @media (max-width: 768px) {
-  h2 {
-    font-size: 4rem;
-  }
+  /* h2 {
+    font-size: 3rem;
+  } */
 }
 @media (max-width: 640px) {
   .banner h2 {
@@ -380,7 +380,7 @@ header {
     padding: 80px 0;
   }
 
-  h2 {
-    font-size: 3rem;
-  }
+  /* h2 {
+    font-size: 2.5rem;
+  } */
 }

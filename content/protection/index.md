@@ -9,7 +9,9 @@ weight: 4
 
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/protectheader.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/protectheader.jpg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Programs to Protect
 
@@ -17,76 +19,73 @@ weight: 4
 
 By creating our own paradise we have a responsibility to the planet.
 
-<br>
-<br>
-<br>
-<br>
+</div>
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="Invest") %}
+<div class="container mx-auto">
+
+{% row(style="reverse" bgColor="#FFFFFF" margin="moderate" padding="both" id="Invest") %}
 
 ### Chumbe Island
 
-<p>
 With OurParadise, we are initiating a series of conservation projects to preserve the marine and natural surroundings of Chumbe Island.
-</p>
 
 <button>[Read More](/protection/chumbeisland_pro)</button>
 
 |||
 
-![Chumbe](img/chumbeprotection.png#large)
+![Chumbe](img/chumbeprotection.png#mx-auto)
 
 {% end %}
 
+</div>
+
 <!-- section 2 (Fun beach) -->
 
-{% row(bgColor="#F2F2F2" margin="moderate" padding="bottom" id="ruins") %}
+{% row(bgColor="#F2F2F2" margin="tight" padding="both" id="ruins") %}
 
-![Ruins](img/mbweniruins3.jpeg#large)
+![Ruins](img/mbweniruins3.jpeg#mx-auto)
 
 |||
 
 ### Mbweni Ruins
 
-<p>Restoration Project for The Historic Ruins of the Mbweni School for freed slaves</p>
-<br>
+Restoration Project for The Historic Ruins of the Mbweni School for freed slaves
 
 <button>[Read More](/protection/mbweniruins_pro)</button>
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="bottom" id="botanical") %}
+
+{% row(style="reverse" bgColor="#FFFFFF" margin="tight" padding="both" id="botanical") %}
 
 ### Mbweni Botanical Garden & Restoration Project
 
-<p>Conservation Project to preserve The gardens around the Mbweni ruins.</p>
-<br>
+Conservation Project to preserve The gardens around the Mbweni ruins.
 
 <button>[Read More](/protection/mbweniruins_pro)</button>
 
 
 |||
 
-![Mbweni](img/mbweniprotection4.jpg#large)
+![Mbweni](img/mbweniprotection4.jpg#mx-auto)
 
 {% end %}
 
-{% row(bgColor="#F2F2F2" margin="moderate" padding="top" id="mangrove") %}
 
-![Mbweni Mangrove Beach](img/mangrove_beach.png#large)
+{% row(bgColor="#F2F2F2" margin="tight" padding="both" id="mangrove") %}
 
-<br>
+![Mbweni Mangrove Beach](img/mangrove_beach.png#mx-auto)
 
-![Mbweni Mangrove Beach](img/mbweni_mangrove.jpeg#large)
+![Mbweni Mangrove Beach](img/mbweni_mangrove.jpeg#mx-auto)
 
 
 |||
 
 ### Mbweni Mangrove Beach
 
-​<p>​Conservation project to 5200 Seedlings of Mangroves Replant Seedlings at Mbweni Mangrove.</p>
+​Conservation project to 5200 Seedlings of Mangroves Replant Seedlings at Mbweni Mangrove.
 
 <button>[Read More](/protection/mbwenimangrove_pro)</button>
 

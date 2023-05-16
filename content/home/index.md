@@ -9,7 +9,9 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center narrow" margin="header" bgPath="img/home_header.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/home_header.jpg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
  ## Welcome to OurParadise
  
@@ -21,10 +23,11 @@ weight: 1
 
  <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
 
- <br>
- <br>
+</div>
 
 {% end %}
+
+<div class="container mx-auto">
 
 <!-- section 2  -->
 
@@ -38,7 +41,7 @@ weight: 1
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-![Mbweni Ruins](img/mbweni.jpeg)
+![Mbweni Ruins](img/mbweni.jpeg#mx-auto)
 
 #### **Mbweni Ruins & Jungle Paradise**
 
@@ -48,7 +51,7 @@ Historical ruins surrounded by beautiful lush gardens featuring a variety of nat
 
 |||
 
-![Chumbe Island](img/chumbe.jpeg)
+![Chumbe Island](img/chumbe.jpeg#mx-auto)
 
 #### **Chumbe Island**
 
@@ -70,7 +73,7 @@ An award-winning private nature reserve, home to one of the world's most pristin
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Regenerative Farm](img/regenerative_farm.jpg)
+![Regenerative Farm](img/regenerative_farm.jpg#mx-auto)
 
 #### **Regenerative Farms**
 
@@ -78,7 +81,7 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 |||
 
-![](img/ecobeach.png)
+![](img/ecobeach.png#mx-auto)
 
 #### **Eco Beach Villas**
 
@@ -94,7 +97,7 @@ Up to 500 hectares of fertile Tanzanian land for the purpose of sustainable farm
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![General Activities](img/beach_activities_2.jpg#mx-auto#large)
+![General Activities](img/beach_activities_2.jpg#mx-auto)
 
 ### Experience
 
@@ -102,7 +105,7 @@ Experience an authentic paradise through diving, snorkeling and tropical garden 
 
 |||
 
-![Crafts](img/local_culture.jpg#mx-auto#large)
+![Crafts](img/local_culture.jpg#mx-auto)
 
 ### Crafts
 
@@ -110,7 +113,7 @@ Learn from locals how to produce crafts, from ceramics to clothing and wood-work
 
 |||
 
-![Crafts](img/boats.jpg#mx-auto#large)
+![Crafts](img/boats.jpg#mx-auto)
 
 ### On the Water
 
@@ -126,10 +129,14 @@ Take day or overnight trips on one of our two sailing boats – one an eco-frien
 
 <br>
 
-![Earth Protection](img/earth_pro.png#mx-auto#large)
+![Earth Protection](img/earth_pro.png#mx-auto)
+
+<br>
 
 By creating our own paradise we have a responsibility to the planet. As such, we have four initial projects to ensure the conservation and regeneration of OurParadise – Chumbe Island, Mbweni Ruins, Mbweni Botanical Gardens, and the Mbweni Mangrove Forest.
 
 <button>[Learn More](/protection)</button>
 
 {% end %}
+
+</div>

@@ -8,27 +8,33 @@ weight: 3
 ---
 <!-- section 1 (Locations) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/luxury.jpeg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/luxury.jpeg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Our Locations
 
 ### Discover Places Where You Can Make a Change
 
-<br>
+
 
 OurParadise consists of numerous beautiful eco-friendly destinations – starting in Zanzibar & Tanzania – places where you are invited to learn about local cultures, conservational programs, and contribute to and support the betterment of society.
+
+</div>
 
 {% end %}
 
 <!-- section 2 (Mbweni) -->
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="top" id="fflow_grid") %}
+<div class="container mx-auto">
 
-![Mbweni](img/mbwenilocation3.jpeg#large)
+{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="fflow_grid") %}
 
-<br>
+![Mbweni](img/mbwenilocation3.jpeg)
 
-![Mbweni](img/mbwenilocation1.jpeg#large)
+
+
+![Mbweni](img/mbwenilocation1.jpeg)
 
 |||
 
@@ -38,11 +44,15 @@ Historical ruins surrounded by beautiful lush botanical gardens featuring a vari
 
 <button>[Read More](/locations/mbweni)</button>
 
+</div>
+
 {% end %}
 
 <!-- section 3 (Chumbe) -->
 
-{% row(bgColor="#F2F2F2" margin="moderate" padding="top" id="fflow_grid") %}
+{% row(style="reverse" bgColor="#F2F2F2" margin="tight" padding="both" id="fflow_grid") %}
+
+
 
 # Chumbe Island
 
@@ -53,7 +63,9 @@ home to one of the world's most pristine coral reef sanctuary.
 
 |||
 
-![chumbe](img/chumbe_location.jpeg#large)
+![chumbe](img/chumbe_location.jpeg)
+
+
 
 {% end %}
 

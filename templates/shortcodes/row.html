@@ -54,67 +54,16 @@ Parameters:
 
 {% endif %}
 
-<!-- Padding -->
-
-{% set padding_class = " py-8 md:py-8 lg:py-28" %}
-
-{% if padding %}
-    {% if "none" in padding %}
-        {% set padding_class = " py-0" %}
-    {% elif "top" in padding %}
-        {% set padding_class = " py-2 md:py-4 lg:pt-28" %}
-    {% elif "bottom" in padding %}
-        {% set padding_class = " py-2 md:py-4 lg:pb-28" %}
-    {% endif %}
-{% endif %}
-
-{% if css %}
-    {% set padding_class = padding_class ~ " " ~ css %}
-{% endif %}
-
-{% set row_class =  row_class ~ padding_class %}
 
 
-<!-- Margins -->
-
-{% set margin_class = " mx-4 md:mx-16 lg:mx-24" %}
-
-{% if margin %}
-    {% if "none" in margin %}
-        {% set margin_class = " mx-0" %}
-    {% elif "wide" in margin %}
-        {% set margin_class = " mx-4 sm:mx-8 md:mx-12 lg:mx-16 xl:mx-20" %}
-    {% elif "moderate" in margin %}
-        {% set margin_class = " mx-8 sm:mx-16 md:mx-20 lg:mx-28" %}
-    {% elif "narrow" in margin %}
-        {% set margin_class = " mx-12 sm:mx-20 md:mx-28 lg:mx-40" %}
-    {% elif "tight" in margin %}
-        {% set margin_class = " mx-20 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
-    {% elif "header" in margin %}
-        {% set margin_class = " mx-12 sm:mx-20 md:mx-28 lg:mx-40 my-10" %}
-    {% endif %}
-    {% if "lean-left" in margin %}
-        {% set margin = margin_class | replace(from=" ", to=" first:")%}
-        {% set margin_left = margin | replace(from="mx", to="-ml") %}
-        {% set margin_right = margin | replace(from="mx", to="mr") %}
-        {% set col_class = col_class ~ " md:last:px-8 lg:last:px-20 lg:max-w-[50%] lg:mx-0 " ~ margin_left ~ margin_right %}
-        {% set row_class = row_class ~ " sm:gap-0 " %}
-    {% elif "lean-right" in margin %}
-        {% set margin = margin_class | replace(from=" ", to=" last:")%}
-        {% set margin_left = margin | replace(from="mx", to="ml") %}
-        {% set margin_right = margin | replace(from="mx", to="-mr") %}
-        {% set col_class = col_class ~ " md:first:px-8  lg:first:px-20 lg:max-w-[50%] lg:mx-0 " ~ margin_left ~ margin_right %}
-        {% set row_class = row_class ~ " sm:gap-0 " %}
-    {% endif %}
-{% endif %}
-
-{% if css %}
-    {% set margin_class = margin_class ~ " " ~ css %}
-{% endif %}
-
-{% set row_class =  row_class ~ margin_class %}
 
 {% if style %}
+
+ <!-- reverse col at mobile -->
+
+ {% if "reverse" in style %}
+ {% set row_class = "flex flex-col-reverse md:flex-row items-center" %}
+ {% endif %}
 
     {% if "center" in style %}
         {% set row_class = row_class ~ " text-center items-center mx-auto " %}
@@ -156,6 +105,65 @@ Parameters:
     {% set anchor_link = anchor %}
 {% endif %}
 
+<!-- Padding -->
+
+{% set padding_class = " py-8 md:py-8 lg:py-28" %}
+
+{% if padding %}
+    {% if "none" in padding %}
+        {% set padding_class = " py-0" %}
+    {% elif "top" in padding %}
+        {% set padding_class = " py-2 md:py-4 lg:pt-28" %}
+    {% elif "bottom" in padding %}
+        {% set padding_class = " py-2 md:py-4 lg:pb-28" %}
+    {% endif %}
+{% endif %}
+
+{% if css %}
+    {% set padding_class = padding_class ~ " " ~ css %}
+{% endif %}
+
+{% set row_class =  row_class ~ padding_class %}
+
+
+<!-- Margins -->
+
+{% set margin_class = " mx-4 md:mx-16 lg:mx-24" %}
+
+{% if margin %}
+    {% if "none" in margin %}
+        {% set margin_class = " mx-0" %}
+    {% elif "wide" in margin %}
+        {% set margin_class = " mx-4 md:mx-12 lg:mx-16 xl:mx-20" %}
+    {% elif "moderate" in margin %}
+        {% set margin_class = " mx-4 md:mx-20 lg:mx-28" %}
+    {% elif "narrow" in margin %}
+        {% set margin_class = " mx-4 md:mx-28 lg:mx-40" %}
+    {% elif "tight" in margin %}
+        {% set margin_class = " mx-4 md:mx-40 lg:mx-80 xl:mx-96" %}
+    {% elif "header" in margin %}
+        {% set margin_class = " mx-4 md:mx-28 lg:mx-40 my-10" %}
+    {% endif %}
+    {% if "lean-left" in margin %}
+        {% set margin = margin_class | replace(from=" ", to=" first:")%}
+        {% set margin_left = margin | replace(from="mx", to="-ml") %}
+        {% set margin_right = margin | replace(from="mx", to="mr") %}
+        {% set col_class = col_class ~ " md:last:px-8 lg:last:px-20 lg:max-w-[50%] lg:mx-0 " ~ margin_left ~ margin_right %}
+        {% set row_class = row_class ~ " sm:gap-0 " %}
+    {% elif "lean-right" in margin %}
+        {% set margin = margin_class | replace(from=" ", to=" last:")%}
+        {% set margin_left = margin | replace(from="mx", to="ml") %}
+        {% set margin_right = margin | replace(from="mx", to="-mr") %}
+        {% set col_class = col_class ~ " md:first:px-8  lg:first:px-20 lg:max-w-[50%] lg:mx-0 " ~ margin_left ~ margin_right %}
+        {% set row_class = row_class ~ " sm:gap-0 " %}
+    {% endif %}
+{% endif %}
+
+{% if css %}
+    {% set margin_class = margin_class ~ " " ~ css %}
+{% endif %}
+
+{% set row_class =  row_class ~ margin_class %}
 
 <!-- makes row full screen width and adds background img -->
 {% set styles = ""  %}
@@ -195,7 +203,7 @@ Parameters:
 {% set no_margins = " -mx-8 md:-mx-12 lg:-mx-16 xl:-mx-20" %}
 
 
-        <div id="{{anchor_link}}" class="{{'relative justify-center flex overflow-hidden ' ~ div_class }}" style="{{styles}}">
+        <div id="{{anchor_link}}" class="{{'relative justify-center items-center flex overflow-hidden ' ~ div_class }}" style="{{styles}}">
             <div id="{{row_id}}" class="{{row_class}}" style="min-width: -webkit-fill-available; min-width: -moz-available"> 
         
         {% for column in columns%} 

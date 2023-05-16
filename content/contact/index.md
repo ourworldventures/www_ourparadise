@@ -7,7 +7,9 @@ draft: false
 weight: 6
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/join_header.png" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/join_header.png" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Take Action
 
@@ -19,12 +21,13 @@ Please note **we are now primarily focused on raising $3M in order to fully acqu
 
 <BUTTON><a href="mailto:info@threefold.io">Send us an Email</a></BUTTON>
 
+</div>
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="fflow_grid") %}
+{% row(bgColor="#FFFFFF" margin="tight" padding="both" id="fflow_grid") %}
 
-![chumbe](img/token_ownership.jpg#large)
+![chumbe](img/token_ownership.jpg#mx-auto)
 
 |||
 
@@ -34,7 +37,7 @@ We are introducing a token called EDEN. EDEN Tokens are not crypto currencies, t
 
 {% end %}
 
-{% row(bgColor="#F2F2F2" margin="moderate" padding="both" id="fflow_grid") %}
+{% row(style="reverse" bgColor="#F2F2F2" margin="tight" padding="both" id="fflow_grid") %}
 
 # Not For Profit
 
@@ -42,13 +45,13 @@ The OurParadise locations will be owned by not-for-profit entities to make sure 
 
 |||
 
-![chumbe](img/nonprofit.jpg#large)
+![chumbe](img/nonprofit.jpg#mx-auto)
 
 {% end %}
 
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="fflow_grid") %}
+{% row(bgColor="#FFFFFF" margin="tight" padding="both" id="fflow_grid") %}
 
-![venture creator](img/venture_creator.png#large)
+![venture creator](img/venture_creator.png#mx-auto)
 
 |||
 

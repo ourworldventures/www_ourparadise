@@ -9,7 +9,9 @@ weight: 2
 
 <!-- section 1 (JP) -->
 
-{% row(style="center narrow" margin="header" bgPath="img/opwhy.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="tight" bgPath="img/opwhy.jpg" bgStyle="full") %}
+
+<div class="bg-gray-200/50 py-4 px-4 rounded-md">
 
 ## Our Why
 
@@ -20,5 +22,7 @@ weight: 2
 These values are engrained into all that we do. Mother Earth is our home and we must protect her. Beyond that, we believe in people and the power of community and we aim to support the people around us. A healthy community starts with authenticity and the opportunity to be our authentic selves. We want people to experience peaceful free time with detail for art, nature, silence, food, and healing. We want to show people the beauty of our world – which is a real paradise – and help them find themselves again in this hectic world. We want to preserve unique locations and create awareness on why this is so important. And finally we aim to educate around planet regeneration and sustainability, awareness improvement, sovereignty, and more.
 
 <button>[See Our Vision](/vision)</button>
+
+</div>
 
 {% end %}
