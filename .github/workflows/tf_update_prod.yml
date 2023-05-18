@@ -1,0 +1,24 @@
+name: ourparadise.ourworld.tf
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on ourparadise.ourworld.tf
+      uses: appleboy/ssh-action@master
+      with:
+        host: ourparadise.ourworld.tf
+        username: webuser
+        key: ${{ secrets.TF_SECRET }}
+        port: 34022
+        script: |
+          cd websites/www_ourparadise/
+          git log -1
+          git restore .
+          git pull
+          sed -i "s/https:\/\/www2.ourparadise.ourworld.tf/https:\/\/ourparadise.ourworld.tf/g" config.toml
+          ./build.sh
