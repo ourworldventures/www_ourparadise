@@ -2,7 +2,9 @@
 
 The official website of OurParadise, powered by Ourworld.
 
-[ourparadise.ourworld.tf](ourparadise.ourworld.tf)
+production [ourparadise.ourworld.tf](ourparadise.ourworld.tf)
+
+staging [www2.ourparadise.ourworld.tf/](www2.ourparadise.ourworld.tf/)
 
 Last Updated: March 2023
 
