@@ -7,22 +7,9 @@ draft: false
 weight: 4
 ---
 
-{% row(style="center narrow" margin="header" bgPath="img/protectheader.jpg" bgStyle="full") %}
-
-## Programs to Protect
-
-### A Regenerative Planet and People First Approach
-
-By creating our own paradise we have a responsibility to the planet.
-
-<br>
-<br>
-<br>
 <br>
 
-{% end %}
-
-{% row(bgColor="#FFFFFF" margin="moderate" padding="both" id="Invest") %}
+{% row(bgColor="#FFFFFF" margin="narrow" padding="both" id="Invest") %}
 
 ### Chumbe Island
 
@@ -44,6 +31,6 @@ Zanzibari community members from neighboring fishing villages will also gain kno
 
 |||
 
-![Chumbe](img/chumbeprotection.png#large)
+![Chumbe](img/chumbeprotection.png#mx-auto)
 
 {% end %}

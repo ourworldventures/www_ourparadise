@@ -2,7 +2,9 @@
 
 The official website of OurParadise, powered by Ourworld.
 
-[ourparadise.ourworld.tf](ourparadise.ourworld.tf)
+production(master branch) [ourparadise.ourworld.tf](ourparadise.ourworld.tf)
+
+staging(development branch) [www2.ourparadise.ourworld.tf/](www2.ourparadise.ourworld.tf/)
 
 Last Updated: March 2023
 
