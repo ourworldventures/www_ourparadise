@@ -64,7 +64,7 @@ Restoration Project for The Historic Ruins of the Mbweni School for freed slaves
 
 Conservation Project to preserve The gardens around the Mbweni ruins.
 
-<button>[Read More](/protection/mbweniruinspro)</button>
+<button>[Read More](/protection/botanrestorpro)</button>
 
 
 |||
@@ -76,18 +76,18 @@ Conservation Project to preserve The gardens around the Mbweni ruins.
 
 {% row(bgColor="#F2F2F2" margin="tight" padding="both" id="mangrove") %}
 
-![Mbweni Mangrove Beach](img/mangrove_beach.png#mx-auto)
+![Mbweni Mangrove Beach](img/mangrove_beach.png#mx-auto#medium)
 
-![Mbweni Mangrove Beach](img/mbweni_mangrove.jpeg#mx-auto)
+![Mbweni Mangrove Beach](img/mbweni_mangrove.jpeg#mx-auto#medium)
 
 
 |||
 
 ### Mbweni Mangrove Beach
 
-​Conservation project to 5200 Seedlings of Mangroves Replant Seedlings at Mbweni Mangrove.
+Conservation project to 5200 Seedlings of Mangroves Replant Seedlings at Mbweni Mangrove.
 
-<button>[Read More](/protection/mbwenimangrove_pro)</button>
+<button>[Read More](/protection/mbwenimangrove)</button>
 
 {% end %}
 
