@@ -11,6 +11,8 @@ weight: 8
 
 {% row(bgColor="#F2F2F2" margin="narrow" padding="both" id="ruins") %}
 
+<br>
+
 ![Ruins](img/mbweniruins3.jpeg#mx-auto#medium)
 
 

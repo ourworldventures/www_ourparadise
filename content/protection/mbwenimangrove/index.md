@@ -7,7 +7,10 @@ draft: false
 weight: 4
 ---
 
+
 {% row(bgColor="#F2F2F2" margin="narrow" id="mangrove" padding="both") %}
+
+<br>
 
 ![Mbweni Mangrove Beach](img/mangrove_beach.png#mx-auto#medium)
 
